@@ -1,0 +1,918 @@
+Isla	Estudio	Pradera	Sitio	Lat	Long	Profundidad	Fecha	Cober	Densidad 	Longitud	ZEC
+Lanzarote	Rogelio	Franceses 	Franceses1	29,2180	-13,5291	8	03/06/2013	0	0		si
+Lanzarote	Rogelio	Franceses	Franceses2	29,2170	-13,5300	12	03/06/2013	0	0		si
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/01/2019		666	3,4	si
+Gran Canaria	Tuya.et.al.2013 	Gando	A	27,8714	-15,3860	5	01/02/2011		28	3,6	si
+Gran Canaria	Perez1996	Taliarte	50	27,9889	-15,3694	7	01/08/1994		914	4,44	no
+Lanzarote	Rogelio	Salado		29,2217	-13,5072	8	03/06/2013	10	488	4,444761905	si
+Tenerife	CIMA	Igueste	IG-9	28,5316	-16,1303	13,5	01/12/2007		368	5,04	si
+Tenerife	CIMA	Caletillas	CAL-2	28,3840	-16,3512	19	21/11/2007		24	5,7	no
+Tenerife	CIMA	Igueste	IG-9	28,5316	-16,1303	13,5	01/12/2006		595,2	5,8	si
+Tenerife	CIMA	Caletillas	CAL-5	28,3762	-16,3590	12	01/07/2007		14,4	5,9	no
+Gran Canaria	Perez1996	Gando	Interna	27,9317	-15,3717	4	01/05/1995		2145	6	si
+La Gomera	Plan.Conservación.C.nodosa	Guancha	B	28,0711	-17,1277	7	12/03/2005	53,7	422	6,3	si
+Gran Canaria	Tuya.et.al.2013 	Gando	A	27,8714	-15,3860	5	01/08/2011		42	6,4	si
+Lanzarote	CIMA	Puerto.Calero	M2	28,9144	-13,7105	7,2	16/03/2005		168	6,42	no
+Tenerife	CIMA	Igueste	IG-4	28,5173	-16,1612	15	01/12/2007		125,92	6,74	si
+Tenerife	CIMA	Igueste	IG-5	28,5152	-16,1667	15	01/12/2007		164	6,74	si
+Fuerteventura	Rogelio	Playa.Blanca		28,8612	-13,8294	6	02/06/2013	60	984	6,773333333	no
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/01/2018		736	7,1	si
+Tenerife	CIMA	Igueste	IG-7	28,5155	-16,1519	23,5	01/12/2007		124	7,49	si
+Fuerteventura	Rogelio	Playa.Blanca		28,8551	-13,8289	15	02/06/2013	15	382,4	7,52	no
+La Gomera	CCV	Guancha	A	28,0711	-17,1277	8	11/10/2004	75,2	332	7,75	si
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	01/01/2018		138	7,9	no
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	01/01/2017		309	8,3	no
+Tenerife	CIMA	Caletillas	CAL-5	28,3762	-16,3590	12	21/11/2007		112	8,4	no
+Gran Canaria	Tuya.et.al.2013	Roque.Arinaga	A	27,8583	-15,3800	12	01/02/2011		164	8,4	no
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	01/03/2015		298	8,5	si
+La Gomera	CCV	Guancha	A	28,0701	-17,1263	15	12/03/2005	100	346	8,5	si
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	01/01/2020		245	8,6	no
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	01/01/2021		506	8,7	no
+Tenerife	CIMA	Igueste	IG-7	28,5155	-16,1519	23,5	01/12/2006		316,8	8,8	si
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	01/01/2019		666	8,8	no
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/03/2016		485	8,8	si
+Gran Canaria	Polifrone.et.al.2006	Gando	B	27,9347	-15,3762	9	03/06/2004		166,7	9,07	si
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/01/2017		384	9,1	si
+La Gomera	CCV	Guancha	B	28,0711	-17,1277	8	11/10/2004	71,8	366	9,1	si
+Tenerife	CIMA	Granadilla	BU6-final	28,0246	-16,5594	24,4	01/09/2008		86,4	9,2	no
+Tenerife	CIMA	Igueste	IG-4	28,5173	-16,1612	15	01/12/2006		179,2	9,4	si
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	01/01/2018		304	9,4	si
+Fuerteventura	CCV	Corralejo	A	28,6691	-13,8298	13	09/03/2004	100	408	9,5	si
+Gran Canaria	PVA.Manc.Sureste	Formas	Formas	27,8369	-15,4099	16,7	18/03/2013	88	316,44	9,5	no
+Lanzarote	CIMA	Puerto.Calero	M3	28,9153	-13,7083	8,5	17/03/2005		185,6	9,54	no
+Gran Canaria	EIA.Jaulas.Castillo	Juncalillo	Castillo del Romeral	27,7884	-15,4923	6	06/02/2009	25	96	9,6	no
+Gran Canaria	Perez1996	Risco.Verde		27,8589	-15,3861	10	01/02/1996		1790	9,6	no
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	01/03/2015		213	9,6	no
+Lanzarote	CCV	Playa.Blanca	B	28,8598	-13,8273	6	10/03/2004	80	508	10	no
+Fuerteventura	CCV	Corralejo	B	28,6691	-13,8298	14	09/03/2004	100	400	10	si
+Gran Canaria	EIA.Jaulas.Castillo	Juncalillo	Castillo del Romeral	27,7884	-15,4923	12	06/02/2009	40	160	10	no
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	01/01/2019		314	10	no
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/01/2017		586	10	si
+Gran Canaria	Elittoral.PVA Sur	Veril	A	27,7617	-15,5572		01/08/2008	31	698,4	10,2	no
+Tenerife	CIMA	Igueste	IG-5	28,5152	-16,1667	15	01/12/2006		211,2	10,2	si
+Gran Canaria	Elittoral.PVA Sur	Veril	C	27,7618	-15,5572		01/08/2008	4	179,2	10,4	no
+Gran Canaria	Barberá.et.al.2005	Gando	B	27,8704	-15,3850	6	11/03/2003	42,5	276	10,4	si
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	01/03/2016		197	10,4	no
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	01/01/2018		266	10,4	no
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	01/01/2021		245	10,4	no
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/03/2015		453	10,4	si
+Lanzarote	Tuya et.al.2006	Playa.Dorada	A	28,8583	-13,8233	6	01/03/2002	100	510	10,5	no
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	01/03/2016		208	10,5	no
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	01/01/2017		581	10,5	si
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	01/01/2017		448	10,6	si
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	01/01/2020		645	10,7	si
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/03/2016		570	10,7	si
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	01/01/2020		576	10,8	no
+Gran Canaria	Perez1996	Pasito	0	27,7464	-15,6192	8	01/12/1994		323	10,9	no
+Tenerife	CIMA	Caletillas	CAL-2	28,3840	-16,3512	19	01/06/2007		30,4	11	no
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	01/01/2017		597	11	si
+Fuerteventura	CCV	Esquinzo	C	28,0759	-14,2921	5	12/03/2005		132	11,2	si
+Gran Canaria	Perez1996	Gando	interna	27,9317	-15,3717	4	01/08/1995		1676	11,29	si
+Lanzarote	CCV	El.Río	A	29,2162	-13,5044	8	18/05/2004	72,5	250	11,3	si
+Gran Canaria	CCV	Gando	B	27,8704	-15,3850	11	09/03/2005	32	179	11,4	si
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	01/01/2019		464	11,4	si
+Lanzarote	Tuya et.al.2006	Playa.Dorada	A	28,8583	-13,8233	6	01/01/2001	100	390	11,5	no
+Gran Canaria	CCV	Maspalomas	B	27,7286	-15,6009	17	02/05/2004	75	6	11,6	si
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/01/2021		1168	11,8	si
+Gran Canaria	Perez1996	S.Agueda		27,7528	-15,6583	6	01/06/1994		1168	11,9	no
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	01/01/2017		325	11,9	no
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/01/2018		602	11,9	si
+Lanzarote	Rogelio	Fariones		29,2351	-13,4773	18	03/06/2013	20	310,4	11,95333333	si
+Gran Canaria	Perez1996	Gando	interna	27,9317	-15,3717	12	01/02/1996		1650	12	si
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	01/01/2021		698	12	si
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	01/01/2020		704	12,1	no
+Gran Canaria	Tuya.et.al.2013	Pasito	A	27,7438	-15,6178	8	01/02/2011		57	12,1	no
+Gran Canaria	Tuya.et.al.2013	Risco.Verde	A	27,8553	-15,3850	9	01/02/2011		76	12,1	no
+Gran Canaria	Perez1996	Gando	A	27,9313	-15,3706	5	01/12/1994		1980	12,1	si
+Gran Canaria	CCV	Gando	A	27,8704	-15,3850	6	09/03/2005	44,5	158	12,2	si
+Gran Canaria	CIMA	Castillo 	SEB-1	28,0767	-15,4131	16	07/12/2006	3	76,8	12,2	no
+Gran Canaria	CCV	Gando	B	27,8704	-15,3850	7	14/04/2004	46,25	536	12,3	si
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	01/02/2014		520	12,3	si
+Tenerife	CCV	Americas	B	28,0758	-16,7397	11	02/10/2004	59,5	145	12,3	si
+Lanzarote	Rogelio	Caleta.Sebo	Caleta.Sebo	29,2202	-13,5062	8	03/06/2013	5	272	12,37666667	si
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/01/2019		682	12,4	si
+Tenerife	CIMA	Granadilla	BU12-final	28,0641	-16,4975	26,6	17/05/2004		147,2	12,44	no
+Fuerteventura	CCV	Costa.Calma	A	28,1511	-14,2220	5	12/03/2005		136	12,5	si
+Gran Canaria	CCV	Gando	A	27,8704	-15,3850	6	14/04/2004	38,7	314	12,5	si
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	01/03/2016		448	12,5	no
+Gran Canaria	Perez1996	Juncalillo	V	27,7811	-15,5117	12	01/12/1994		247	12,6	no
+Gran Canaria	CIMA	Castillo 	SEB-1	28,0767	-15,4131	16	25/02/2007	3	240	12,6	no
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	01/03/2016		384	12,6	si
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/01/2020		1050	12,6	si
+Gran Canaria	Perez1996	Taliarte	100	27,9889	-15,3694	8	01/08/1994		1371	12,61	no
+Lanzarote	Barberá.et.al.2005	Playa.Blanca	B	28,8614	-13,8303	7	01/03/2003	94 ,2	692	12,7	no
+El Hierro	CCV	Caleta	A	27,7994	-17,8877	15	20/03/2005	87,5	179	12,7	no
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	01/03/2015		522	12,9	si
+Fuerteventura	CCV	Costa.Calma	B	28,1511	-14,2220	15	12/03/2005		180	13	si
+Tenerife	CCV	Medano	A	28,0402	-16,5392	5	04/04/2005	100	362	13	si
+Tenerife	CCV	Americas	A	28,0758	-16,7397	11	02/10/2004	43	114	13	si
+Lanzarote	CCV	Playa.Blanca	A	28,8598	-13,8273	7	10/03/2004	77,5	528	13,1	no
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	01/01/2021		869	13,1	si
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	01/01/2019		693	13,1	si
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/01/2019		842	13,2	no
+Gran Canaria	CCV	Maspalomas	A	27,7286	-15,6009	16	02/05/2004	65	22	13,3	si
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	01/08/2018		778	13,3	no
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	01/01/2021		661	13,3	no
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/01/2021		986	13,3	no
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/01/2020		1376	13,4	si
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/01/2017		426	13,4	no
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	01/01/2019		762	13,5	si
+Gran Canaria	Perez1996	Gando	pìscina	27,9310	-15,3644	17	01/05/1995		2971	13,7	si
+Gran Canaria	Tuya.et.al.2013	Pasito	A	27,7438	-15,6178	8	01/08/2011		81	13,7	no
+Lanzarote	CCV	Playa.Quemada	A	28,9044	-13,7348	8	10/03/2004	95	520	13,8	no
+Gran Canaria	Perez1996	Gando	media	27,9325	-15,3694	18	01/05/1995		1498	14	si
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	01/01/2017		293	14	no
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/09/2016		1082	14	no
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	01/01/2020		1024	14,1	si
+Fuerteventura	Plan.Conservación.C.nodosa	Puerto.Lajas	Bahía Puerto Lajas	28,5365	-13,8370	3,6	27/03/2006	98,8	986,12	14,2	no
+Gran Canaria	Perez1996	Montaña.Arena		27,7463	-15,6389	6	01/07/1994		1104	14,24	no
+Tenerife	CCV	Medano	B	28,0402	-16,5392	6	12/10/2003	100	360	14,25	si
+Tenerife	CIMA	Granadilla	BU8-final	28,0469	-16,5238	24,3	01/09/2008		105,6	14,26	no
+Lanzarote	CCV	Playa.Blanca	B	28,8598	-13,8273	8	14/10/2003	95	514	14,3	no
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	01/03/2016		581	14,3	si
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	01/01/2021		533	14,3	si
+Tenerife	CIMA	Granadilla	BU7-inicio	28,0416	-16,5397	3,3	01/09/2008		377,6	14,32	no
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	01/01/2019		613	14,4	no
+Gran Canaria	Perez1996	Arinaga	media	27,8483	-15,3950	7	01/09/1994		2577	14,5	no
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	01/01/2018		357	14,5	no
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	01/01/2018		336	14,5	si
+Lanzarote	CCV	Playa.Blanca	B	28,8598	-13,8273	6	10/10/2004	90	966	14,6	no
+Gran Canaria	Barberá.et.al.2005	Gando	A	27,9327	-15,3742	6	11/03/2003	46,2	438	14,6	si
+Tenerife	CIMA	Granadilla	BU5-inicio	28,0273	-16,5913	8	01/09/2008		284,8	14,64	no
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	01/03/2015		469	14,7	no
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/01/2018		506	14,7	no
+Gran Canaria	CIMA	Arinaga	S4M2	27,8135	-15,4127	19	30/05/2005	19,37	305,92	14,75	no
+Gran Canaria	CIMA	Taliarte	SEB-2	27,9889	-15,3694	5,5	25/02/2007	22	192	14,8	no
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	01/09/2021		848	14,8	si
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/01/2020		1578	14,8	no
+Gran Canaria	Perez1996	Arinaga	media	27,8508	-15,3975	7	01/02/1996		812	14,9	no
+Fuerteventura	CCV	Gran.Tarajal	B	28,2054	-14,0262	6	16/10/2003	76,2	276	15	si
+Gran Canaria	Perez1996	Gando	castillo	27,9313	-15,3706	11	01/05/1995		1968	15	si
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	01/03/2015		763	15	no
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	01/08/2017		266	15	no
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/02/2014		554	15	si
+Tenerife	CIMA	Granadilla	BU15-inicio	28,1003	-16,4727	15,7	12/05/2004		230,4	15,06	no
+Lanzarote	CCV	Caleta.Sebo	A	29,2273	-13,4998	10	10/10/2003	87,5	260	15,1	si
+Gran Canaria	Barberá.et.al.2005	Maspalomas	B	27,7286	-15,6009	16	01/03/2003	77,5	164	15,1	si
+Gran Canaria	P.Conservación.C.nodosa	Canteras	Las palmas	28,1443	-15,4348	3,6	03/03/2005	36,1	183,18	15,1	si
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	29/03/2012	33	624	15,1	si
+Tenerife	Reyes.et.al.1996	Medano	A	28,0430	-16,5376	6	01/02/1991	100	1001	15,1	si
+Gran Canaria	Perez1996	Tenefe	I 	27,7978	-15,4400	21	01/12/1994		698	15,2	no
+Gran Canaria	CIMA	Taliarte	SEB-2	27,9889	-15,3694	5,5	06/12/2006	23	176	15,2	no
+Tenerife	CIMA	Granadilla	BU14-inicio	28,0907	-16,4860	7	12/05/2004		364,8	15,36	no
+Gran Canaria	Perez1996	Roque.Arinaga		27,8639	-15,3800	14	01/02/1996		1180	15,4	no
+Lanzarote	CCV	Playa.Blanca	A	28,8598	-13,8273	6	10/10/2004	98,2	784	15,5	no
+Lanzarote	CCV	Playa.Blanca	A	28,8598	-13,8273	8	14/10/2003	100	322	15,5	no
+Fuerteventura	CCV	Guinijinamar	A	28,1984	-14,0733	5	14/03/2005	100	396	15,5	si
+Gran Canaria	Perez1996	Risco.Verde		27,8589	-15,3861	8	01/03/1995		1942	15,5	no
+Lanzarote	Barberá.et.al.2005	Playa.Quemada	B	28,9043	-13,7367	6	01/03/2003	76 ,2	282	15,6	no
+Fuerteventura	CCV	Corralejo	B	28,6691	-13,8298	14	14/10/2003	100	358	15,6	si
+Gran Canaria	Perez1996	Arinaga	media	27,8508	-15,3975	6	01/01/1995		1390	15,6	no
+Tenerife	CIMA	Granadilla	BU10-final	28,0562	-16,5118	20,6	01/09/2008		256	15,68	no
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	01/09/2019		330	15,7	no
+Lanzarote	Tuya et.al.2006	Playa.Dorada	A	28,8583	-13,8233	6	01/07/2001	100	805	15,8	no
+Gran Canaria	Perez1996	Gando	castillo	27,9313	-15,3706	7	01/09/1994		1282	15,8	si
+Gran Canaria	Perez1996	Gando	interna	27,9317	-15,3717	4	01/08/1994		1510	15,8	si
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	04/04/2012	33	437	15,8	si
+Lanzarote	Barberá.et.al.2005	Playa.Quemada	A	28,9043	-13,7367	8	01/03/2003	94 ,0	384	15,9	no
+Gran Canaria	PVA.Manc.Sureste	Arinaga	Arinaga	27,8531	-15,3965	8,9	15/11/2012	93,2	284,8	16	no
+Gran Canaria	Perez1996	Tufia		27,9667	-15,3783	7	01/08/1994		1460	16	no
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	13/03/2012	66	768	16	no
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	01/01/2018		560	16	si
+Tenerife	CIMA	Igueste	IG-4	28,5173	-16,1612	15	01/04/2007		328	16,2	si
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/01/2021		1008	16,2	si
+Lanzarote	Rogelio	Pocillos		28,9230	-13,6327	10	01/06/2013	60	1075,2	16,20111111	si
+Tenerife	CCV	Medano	A	28,0402	-16,5392	8	12/10/2003	100	454	16,3	si
+Fuerteventura	CCV	Corralejo	B	28,6691	-13,8298	13	16/03/2005	100	230	16,5	si
+Gran Canaria	Perez1996	Arinaga	Interna	27,8533	-15,3967	4	01/05/1995		2704	16,5	no
+Gran Canaria	Perez1996	Gando	pìscina	27,9310	-15,3644	14	01/09/1994		2069	16,6	si
+Gran Canaria	Perez1996	Gando	media	27,9325	-15,3694	20	01/09/1994		1200	16,6	si
+Tenerife	CIMA	Igueste	IG-5	28,5152	-16,1667	15	01/04/2007		251,2	16,6	si
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	01/09/2020		842	16,6	si
+Fuerteventura	Barberá.et.al.2005	Corralejo	B	28,6706	-13,8295	16	17/03/2003	100	260	16,6	si
+Gran Canaria	PVA.Manc.Sureste	Arinaga	Arinaga	27,8531	-15,3965	8,7	18/03/2013	93,7	536,88	16,64	no
+Lanzarote	Caracterización.DMA 	Guasimeta	Güasimeta	28,9384	-13,6027	14,8	22/08/2008	72	310,4	16,66	si
+Gran Canaria	CCV	Gando	A	27,8704	-15,3850	6	17/10/2003	79,2	494	16,7	si
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	01/09/2021		917	16,7	no
+Tenerife	CIMA	Granadilla	BU15-centro	28,1007	-16,4729	14	12/05/2004		340,8	16,73	no
+Lanzarote	CCV	El.Río	A	29,2162	-13,5044	7	16/10/2004	97,2	620	16,8	si
+Lanzarote	CCV	Playa.Quemada	B	28,9044	-13,7348	9	10/03/2004	100	444	16,8	no
+Fuerteventura	CCV	Corralejo	A	28,6691	-13,8298	13	16/03/2005	100	226	16,8	si
+Fuerteventura	CCV	Gran.Tarajal	A	28,2054	-14,0262	6	16/10/2003	65	228	16,8	si
+Gran Canaria	CCV	Maspalomas	B	27,7286	-15,6010	11	23/10/2004	72,5	164	16,8	si
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	01/01/2020		741	16,8	si
+Lanzarote	CCV	Caleta.Sebo	A	29,2273	-13,4998	10	12/03/2004	100	726	16,9	si
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	01/08/2017		330	16,9	no
+Gran Canaria	Perez1996	Ingles	Em N 400	27,7543	-15,5584	7	01/07/1995		1450	17	si
+Gran Canaria	Perez1996	Roque.Arinaga	A	27,8583	-15,3800	12	01/12/1994		777	17	no
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	01/08/2018		666	17	si
+La Gomera	Plan.Conservación.C.nodosa	Cabrito	Playa del Cabrito	28,0572	-17,1359	9,2	05/02/2006	59,6	275,28	17	si
+Lanzarote	CCV	El.Río	B	29,2162	-13,5044	8	18/05/2004	60	338	17,1	si
+Gran Canaria	Perez1996	Arinaga	interna	27,8508	-15,3975	5	01/07/1994		4609	17,1	no
+Lanzarote	CCV	Playa.Quemada	B	28,9044	-13,7348	8	14/10/2003	100	344	17,12	no
+Tenerife	CIMA	Gigantes	LG-8	28,2706	-16,8519	14,6	01/06/2008		236	17,15	si
+Tenerife	CIMA	Granadilla	BU10-final	28,0562	-16,5118	20,6	17/05/2004		259,2	17,22	no
+Gran Canaria	Afección.Playa.Veril	Ingles	El Veril	27,7604	-15,5599	4,6	26/05/2010	22,2	112,4	17,3	si
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	01/02/2014		560	17,4	no
+Lanzarote	Barberá.et.al.2005	El.Río	A	29,2172	-13,5023	8	01/03/2003	66 ,2	438	17,5	si
+Gran Canaria	Perez1996	Burras		27,7639	-15,5500	10	01/07/1994		1847	17,5	no
+Tenerife	CIMA	Gigantes	LG-8	28,2706	-16,8519	14,6	01/012/2008		612	17,5	si
+Tenerife	CIMA	Granadilla	A-Unelco	28,1016	-16,4696	23	04/11/2011		190,4	17,54	no
+La Gomera	Caracterización.DMA 	Cabrito	Playa del Cabrito	28,0572	-17,1359	16	05/02/2006	52,1	236,16	17,6	si
+Gran Canaria	Perez1996	Gando	A	27,9313	-15,3706	5	01/05/1995		1650	17,6	si
+Lanzarote	Barberá.et.al.2005	El.Río	A	29,2162	-13,5044	14	12/10/2003	75	318	17,7	si
+Gran Canaria	Perez1996	Burras		27,7639	-15,5361	7	01/07/1994		1409	17,7	no
+Gran Canaria	Perez1996	Arinaga	enfilaciòn	27,8483	-15,3950	9	01/07/1994		2571	17,7	no
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	01/09/2020		1408	17,7	no
+Tenerife	CCV	Medano	A	28,0402	-16,5392	5	03/10/2004	92,2	396	17,75	si
+Lanzarote	Rogelio	Mulata 	Mulata 2	28,8603	-13,8532	10	02/06/2013	30	392	17,77833333	no
+Gran Canaria	Perez1996	Arinaga	enfilaciòn	27,8483	-15,3950	9	01/01/1995		1809	17,8	no
+Gran Canaria	CCV	Gando	A	27,8704	-15,3850	8	22/10/2004	76,2	470	17,8	si
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	01/09/2016		864	17,9	no
+Tenerife	CIMA	Granadilla	BU6-final	28,0246	-16,5594	24,4	18/05/2004		262,4	17,92	no
+Lanzarote	CCV	Caleta.Sebo	B	29,2273	-13,4998	10	10/10/2003	100	362	18	si
+Gran Canaria	Perez1996	Ingles	Em N 800	27,7542	-15,5556	12	01/07/1995		1100	18	si
+Gran Canaria	Perez1996	Arinaga	media	27,8508	-15,3975	5	01/10/1995		1498	18	no
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	01/08/2017		346	18	si
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	01/02/2014		554	18	no
+Fuerteventura	Barberá.et.al.2005	Corralejo	A	28,6706	-13,8293	16	17/03/2003	99	230	18,1	si
+Gran Canaria	Perez1996	Pasito	100	27,7453	-15,6181	9	01/12/1994		666	18,2	no
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/09/2019		1205	18,2	si
+Tenerife	CCV	Medano	A	28,0402	-16,5392	6	04/05/2004	100	548	18,2	si
+Gran Canaria	Perez1996	Gando	media	27,9325	-15,3694	20	01/08/1995		1345	18,25	si
+Lanzarote	CCV	Playa.Quemada	A	28,9044	-13,7348	9	14/10/2003	100	248	18,3	no
+Gran Canaria	Proy.Venturi	Arinaga	INTERNA	27,8533	-15,3967	4	01/01/1995		1752	18,3	no
+Tenerife	CIMA	Granadilla	BU5-centro	28,0263	-16,5904	12,4	01/09/2008		944	18,31	no
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/03/2015		725	18,4	si
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	01/03/2016		512	18,4	si
+Fuerteventura	CCV	Guinijinamar	B	28,1984	-14,0733	10	14/03/2005	100	524	18,5	si
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	01/09/2015		378	18,5	si
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	01/09/2020		485	18,5	no
+Gran Canaria	Tuya.et.al.2013	Roque.Arinaga	A	27,8583	-15,3800	12	01/08/2011		108	18,6	no
+Tenerife	CIMA	San.Blas 	M8	28,0253	-16,6005	10,5	12/10/2004		339,2	18,6	no
+Gran Canaria	Perez1996	Arinaga	A	27,8533	-15,3967	5	01/05/1995		3078	18,6	no
+Lanzarote	Elittoral.Reconocimiento.aguas	Playa.Quemada	B	28,9053	-13,7349	12	01/02/2009	53,2	300,8	18,66	no
+Tenerife	CCV	Medano	B	28,0402	-16,5392	5	04/04/2005	98,6	220	18,7	si
+Lanzarote	Caracterización.DMA 	Guasimeta	Güasimeta	28,9384	-13,6027	7,6	22/08/2008	64,8	365,86	18,73	si
+Lanzarote	Elittoral.Reconocimiento.aguas	Playa.Quemada	A	28,9053	-13,7349	7	01/02/2009	79,2	392,53	18,73	no
+Lanzarote	Plan.Conservación.C.nodosa	Teguise	Teguise	28,9954	-13,4792	10,6	04/04/2006	70,5	328,9	18,8	no
+Lanzarote	CCV	El.Río	B	29,2162	-13,5044	14	12/10/2003	76,2	278	18,8	si
+Gran Canaria	Perez1996	Arinaga	interna	27,8533	-15,3967	4	01/10/1995		1523	18,8	no
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	01/02/2014		693	18,8	si
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/02/2014		1093	18,9	si
+Tenerife	Barberá.et.al.2005	Americas	B	28,0758	-16,7397	15	08/03/2003	62 ,7	249,6	18,9	si
+La Gomera	Elittoral.Reconocimiento.aguas	Cabrito	A	28,0173	-17,2924	9	01/02/2009	45,6	215,47	18,9	si
+La Gomera	Caracterización.DMA 	Cabrito	Playa del Cabrito	28,0572	-17,1359	9,8	27/02/2008	58,4	215,47	18,93	si
+Lanzarote	Barberá.et.al.2005	Playa.Blanca	A	28,8614	-13,8303	8	01/03/2003	95 ,0	584	19	no
+La Gomera	Plan.Conservación.C.nodosa	Playa de Santiago	Playa de Santiago	28,0283	-17,1925	12	06/02/2006	49,3	240	19	si
+La Gomera	Plan.Conservación.C.nodosa	Negra	Cala de La Negra	28,0292	-17,2799	9	06/02/2006	46,2	202,64	19	si
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Playa Aceituno	28,2059	-14,0323	9,8	03/03/2004	22,11	208,33	19,08	si
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/09/2019		1946	19,1	no
+Gran Canaria	CCV	Melenara	B	27,9865	-15,3731	7	14/08/2003	82,5	136	19,2	no
+Tenerife	CIMA	Igueste	IG-7	28,5155	-16,1519	23,5	01/04/2007		395,2	19,2	si
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	01/09/2014		1056	19,2	si
+Fuerteventura	Barberá.et.al.2005	Gran.Tarajal	B	28,2065	-14,0221	14	18/03/2003	80	290	19,2	si
+Lanzarote	CCV	El.Río	B	29,2162	-13,5044	9	16/10/2004	93,7	622	19,3	si
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	01/09/2016		592	19,3	si
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	01/09/2019		778	19,3	si
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	01/09/2015		389	19,3	no
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	01/02/2014		661	19,3	si
+Tenerife	CIMA	Granadilla	BU15-final	28,0977	-16,4704	26,8	12/05/2004		195,2	19,32	no
+Tenerife	CIMA	Granadilla	BU8-inicio	28,0487	-16,5260	7,6	01/09/2008		275,2	19,34	no
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	29/04/2012	66	624	19,4	si
+Tenerife	Barberá.et.al.2005	Medano	B	28,0428	-16,5361	3	29/03/2003	65 ,0	479	19,4	si
+Fuerteventura	CCV	Corralejo	A	28,6691	-13,8298	14	14/10/2003	100	264	19,5	si
+Tenerife	CIMA	Igueste	IG-4	28,5173	-16,1612	15	01/04/2006		297,6	19,5	si
+Tenerife	CCV	Medano	B	28,0402	-16,5392	6	04/05/2004	100	290	19,5	si
+Tenerife	CIMA	Granadilla	BU6-inicio	28,0299	-16,5595	6,7	01/09/2008		435,2	19,56	no
+Lanzarote	Caracterización.DMA 	Arrieta	Arrieta	29,1240	-13,4586	8,7	21/02/2008	87,2	263,47	19,6	no
+Lanzarote	Elittoral.Reconocimiento.aguas	Arrieta	A	29,1240	-13,4586	8	01/02/2009	58	263,47	19,6	no
+Fuerteventura	CCV	Esquinzo	B	28,0759	-14,2921	10	12/03/2005		414	19,6	si
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/03/2016		928	19,6	no
+Tenerife	CCV	Americas	A	28,0758	-16,7397	12	06/03/2004	52,7	320	19,6	si
+Gran Canaria	Perez1996	Arinaga	A	27,8533	-15,3967	5	01/12/1994		1586	19,6	no
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	01/02/2014		1232	19,7	no
+Gran Canaria	CCV	Gando	B	27,8704	-15,3850	6	17/10/2003	66,2	648	19,8	si
+Tenerife	CIMA	Igueste	IG-9	28,5316	-16,1303	13,5	01/04/2007		891,2	19,8	si
+La Gomera	Elittoral.Reconocimiento.aguas	Negra	A	28,0428	-17,1419	9	01/02/2009	53,6	273,07	19,8	si
+La Gomera	Caracterización.DMA 	Negra	Cala de La Negra	28,0292	-17,2799	9	27/08/2008	62,4	273,07	19,87	si
+Fuerteventura	Polifrone.et al.2006	Playa.Blanca		28,8667	-13,8333		03_06/2005		751,9	19,9	no
+Gran Canaria	Perez1996	Pasito	400	27,7436	-15,6147	12	01/09/1994		698	19,9	no
+Gran Canaria	Perez1996	Pasito	300	27,7444	-15,6150	11	01/09/1994		723	19,9	no
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/08/2017		1424	19,9	si
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/10/2011	33	669	19,9	si
+Tenerife	CIMA	Granadilla	BU11-final	28,0594	-16,5067	19,6	17/05/2004		204,8	19,92	no
+Gran Canaria	Perez1996	Pasito	150	27,7447	-15,6175	10	01/12/1994		495	20	no
+Gran Canaria	Perez1996	Pasito	50	27,7458	-15,6186	8	01/08/1995		698	20	no
+Gran Canaria	Perez1996	Ingles	Em N 1200	27,7539	-15,5514	17	01/07/1995		600	20	si
+Gran Canaria	Polifrone.et.al.2006	Tufia		27,9621	-15,3792	7	03/06/2004		433,3	20	no
+Gran Canaria	CCV	Melenara	A	27,9865	-15,3731	9	14/08/2003	100	136	20	no
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Espigón muelle	28,2053	-14,0266	12,5	04/04/2005	61,8	373,33	20,1	si
+Tenerife	CIMA	Granadilla	C-Unelco	28,0766	-16,4890	20	04/11/2011		179,2	20,18	no
+Lanzarote	CCV	Caleta.Sebo	A	29,2273	-13,4998	12	18/03/2005	100	1033	20,2	si
+Gran Canaria	Perez1996	Roque.Arinaga		27,8639	-15,3800	14	01/01/1995		1041	20,2	no
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	01/09/2021		778	20,2	no
+La Gomera	Caracterización.DMA 	Negra	Cala de La Negra	28,0292	-17,2799	8,7	27/02/2008	58,4	208	20,2	si
+La Gomera	Elittoral.Reconocimiento.aguas	Negra	A	28,0173	-17,2924	9	01/02/2009	38	208	20,2	si
+Tenerife	CIMA	San.Blas 	M4	28,0209	-16,5978	27	13/10/2004		236,8	20,22	no
+Fuerteventura	CCV	Gran.Tarajal	B	28,2054	-14,0262	6	06/03/2004	95	284	20,3	si
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Playa Gran Tarajal	28,2085	-14,0217	7,2	03/03/2004	28,12	233,67	20,32	si
+Gran Canaria	P.Conservación.C.nodosa	Bahia.Feliz	Bahia.Feliz	27,7773	-15,5214	4,8	09/11/2012	78,8	211,2	20,32	no
+Gran Canaria	CCV	Gando	B	27,8704	-15,3850	8	22/10/2004	87,5	376	20,4	si
+Gran Canaria	Perez1996	Gando	pìscina	27,9310	-15,3644	16	01/08/1995		2196	20,4	si
+Tenerife	CIMA	Granadilla	BU14-centro	28,0893	-16,4845	12,5	12/05/2004		412,8	20,4	no
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/09/2020		2202	20,4	si
+Fuerteventura	CCV	Gran.Tarajal	A	28,2054	-14,0262	12	06/03/2004	90	322	20,5	si
+Gran Canaria	PN.Indicadores 	Anfi	Anfi	27,7709	-15,6941	7,2	22/11/2007	62,5	421,8	20,5	si
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/09/2016		688	20,5	si
+Gran Canaria	DEA.Mruiz	Melenara	Melenara	27,9880	-15,3714	6,9	15/08/2009	75	342	20,56	no
+Lanzarote	CCV	Caleta.Sebo	B	29,2273	-13,4998	11	18/03/2005	100	968	20,7	si
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	01/09/2019		1114	20,7	no
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	01/09/2020		1141	20,7	no
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/09/2019		1498	20,7	si
+Fuerteventura	Elittoral.Reconocimiento.aguas	Gran.Tarajal	B	28,2054	-14,0262	13	01/02/2009	62,8	370	20,8	si
+Fuerteventura	Caracterización.DMA 	Gran.Tarajal	Espigón muelle	28,2045	-14,0354	13,2	23/02/2008	85,6	370,13	20,8	si
+La Gomera	Caracterización.DMA 	Cabrito	Playa del Cabrito	28,0572	-17,1359	10	27/08/2008	64	341,33	20,8	si
+La Gomera	Elittoral.Reconocimiento.aguas	Cabrito	A	28,0428	-17,1419	10	01/08/2008	52	341,33	20,8	si
+Gran Canaria	Barberá.et.al.2005	Maspalomas	A	27,7286	-15,6009	16	01/03/2003	66,2	180	20,9	si
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/08/2018		1829	20,9	si
+Tenerife	Barberá.et.al.2005	Americas	A	28,0758	-16,7397	14	08/03/2003	73 ,7	241,6	20,9	si
+Tenerife	CIMA	Granadilla	BU9-centro	28,0521	-16,5211	14,3	01/09/2008		460,8	20,95	no
+Tenerife	CIMA	Granadilla	BU13-centro	28,0801	-16,4880	16,5	12/05/2004		347,2	20,98	no
+Lanzarote	CCV	Playa.Quemada	A	28,9044	-13,7348	6	11/10/2004	95	432	21	no
+Tenerife	CCV	Medano	B	28,0402	-16,5392	5	03/10/2004	98,2	250	21	si
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	30/09/2011	100	539	21,1	si
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Bocaina puerto	28,2066	-14,0236	8,3	03/03/2004	25,15	505,56	21,12	si
+Gran Canaria	Perez1996	Pasito	A	27,7438	-15,6178	8	01/05/1995		856	21,2	no
+Tenerife	Caracterización.Granadilla	Granadilla	Zona sur - Mtña Pelada	28,0549	-16,5143	8,8	22/08/2004	88,5	498,61	21,24	no
+Tenerife	CIMA	Granadilla	B-Unelco	28,0820	-16,4851	17	04/11/2011		302,4	21,26	no
+Fuerteventura	CCV	Morrojable	C	28,0469	-14,3529	10	11/03/2005		252	21,3	si
+Lanzarote	Caracterización.DMA 	Guasimeta	Güasimeta	28,9384	-13,6027	8	21/02/2008	58,4	419,2	21,33	si
+Lanzarote	Elittoral.Reconocimiento.aguas	Guasimeta	A	28,9384	-13,6027	8	01/02/2009	55,6	419	21,33	si
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	01/08/2017		522	21,4	no
+El Hierro	Elittoral.Reconocimiento.aguas	Estaca	B	27,7828	-17,8995	18	01/02/2009	65,2	302,93	21,4	no
+El Hierro	Caracterización.DMA 	Estaca	Fuera Espigón 	27,7832	-17,8996	18,6	26/02/2008	94,4	302,93	21,4	no
+Tenerife	CIMA	Granadilla	BU8-centro	28,0480	-16,5251	13,3	18/05/2004		580,8	21,41	no
+Fuerteventura	CCV	Resbaladiza	A	28,1722	-14,1814	10	13/03/2005	82,2	188	21,5	si
+Gran Canaria	DEA.Mruiz	Melenara	Melenara	27,9880	-15,3714	6,8	04/04/2008	73	256	21,5	no
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	01/09/2015		506	21,5	no
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	01/08/2018		1317	21,5	no
+Lanzarote	Barberá.et.al.2005	Caleta.Sebo	B	29,2273	-13,4998	10	01/03/2003	90	592	21,6	si
+Gran Canaria	Polifrone.et.al.2006	Cabrón		27,8706	-15,3842	9	03/06/2004		337	21,6	si
+Gran Canaria	P.Conservación.C.nodosa	Tufia	Tufia	27,9606	-15,3791	8,6	06/03/2006	58,4	284,1	21,6	no
+Tenerife	DEA.Mruiz	Abades	Abades	28,1402	-16,4391	10,6	02/02/2007	60	296	21,6	no
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	30/09/2011	66	536	21,6	no
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/09/2016		906	21,6	si
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	01/09/2020		837	21,8	si
+La Gomera	Plan.Conservación.C.nodosa	Cabrito	B	28,0173	-17,2924	15	01/02/2009	40,8	220,8	21,8	si
+Tenerife	CIMA	Granadilla	BU8-inicio	28,0487	-16,5260	7,6	18/05/2004		460,8	21,84	no
+La Gomera	Elittoral.Reconocimiento.aguas	Cabrito	Playa del Cabrito	28,0572	-17,1359	16,6	27/02/2008	55,2	220,8	21,86	si
+Fuerteventura	Elittoral.Reconocimiento.aguas	Gran.Tarajal	A	28,2054	-14,0262	8	01/02/2009	81,2	399	21,9	si
+Tenerife	Barberá.et.al.2005	Medano	A	28,0428	-16,5361	2	29/03/2003	67 ,7	396	21,9	si
+Fuerteventura	Caracterización.DMA 	Gran.Tarajal	Espigón muelle	28,2045	-14,0354	7,6	23/02/2008	97,6	398,93	21,93	si
+Tenerife	CIMA	Granadilla	BU12-centro	28,0700	-16,5012	16,2	17/05/2004		510,4	21,96	no
+Lanzarote	Barberá.et.al.2005	Caleta.Sebo	A	29,2273	-13,4998	10	01/03/2003	99,05	710	22	si
+Lanzarote	Barberá.et.al.2005	El.Río	B	29,2172	-13,5023	8	01/03/2003	54 ,0	588	22	si
+Lanzarote	CCV	Playa.Quemada	B	28,9044	-13,7348	7	11/10/2004	65	582	22	no
+Gran Canaria	Perez1996	Roque.Arinaga		27,8639	-15,3800	14	01/05/1995		1650	22	no
+Tenerife	CIMA	Igueste	IG-7	28,5155	-16,1519	23,5	20/04/2005		227,2	22	si
+Lanzarote	Caracterización.DMA 	Arrieta	Arrieta	29,1240	-13,4586	12	21/02/2008	95,2	481,06	22,13	no
+Lanzarote	Elittoral.Reconocimiento.aguas	Arrieta	B	29,1240	-13,4586	12	01/02/2009	78	481,06	22,13	no
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Espigón muelle	28,2053	-14,0266	12,1	03/03/2004	42,32	436,11	22,2	si
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	01/03/2015		963	22,2	si
+Tenerife	Caracterización.Granadilla	Granadilla	Extremo norte Pta.  Camello	28,0759	-16,4884	6,1	20/08/2004	62,6	469,44	22,27	no
+Fuerteventura	CCV	Resbaladiza	B	28,1722	-14,1814	10	13/03/2005	74,3	232	22,3	si
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	26/04/2012	66	320	22,3	no
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	10/10/2011	66	680	22,3	si
+Tenerife	CIMA	Granadilla	BU14-final	28,0874	-16,4824	19,3	12/05/2004		278,4	22,32	no
+Tenerife	CIMA	Granadilla	BU13-final	28,0789	-16,4869	20,3	12/05/2004		505,6	22,32	no
+Lanzarote	Elittoral.Reconocimiento.aguas	Playa.Blanca	A	28,8598	-13,8273	7	01/02/2009	78,8	418	22,4	no
+Fuerteventura	Elittoral.Reconocimiento.aguas	Playa.Blanca	B	28,4784	-13,8639	12	01/02/2009	84	506	22,4	no
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/09/2020		2576	22,4	no
+Lanzarote	Caracterización.DMA 	Guasimeta	Güasimeta	28,9384	-13,6027	15	21/02/2008	87,2	342,4	22,46	si
+Lanzarote	Elittoral.Reconocimiento.aguas	Guasimeta	B	28,9384	-13,6027	15	01/02/2009	79,6	324	22,46	si
+Lanzarote	Caracterización.DMA 	Playa.Blanca	Pto del Rosario	28,4803	-13,8615	6,7	23/02/2008	98,4	418,13	22,47	no
+Tenerife	Caracterización.Granadilla	Granadilla	Zona sur - Mtña Pelada	28,0549	-16,5143	15,4	22/08/2004	89,3	741,67	22,54	no
+Gran Canaria	DEA.Mruiz	Melenara	Melenara	27,9880	-15,3714	7,1	12/08/2008	75	290	22,6	no
+Lanzarote	Elittoral.Reconocimiento.aguas	Guasimeta	A	28,9384	-13,6027	7	01/02/2009	55,2	365,86	22,66	si
+Lanzarote	Caracterización.DMA 	Playa.Quemada	Playa Quemada	28,9054	-13,7349	6,7	22/02/2008	94,4	392,53	22,66	no
+Lanzarote	CCV	Caleta.Sebo	B	29,2273	-13,4998	10	16/10/2004	90,2	598	22,7	si
+Tenerife	Caracterización.Granadilla	Granadilla	Zona media	28,0659	-16,5009	9,2	21/08/2004	81,8	795,83	22,74	no
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/08/2017		1061	22,8	si
+Tenerife	CCV	Americas	B	28,0758	-16,7397	11	06/03/2004	77,5	276	22,8	si
+Tenerife	CIMA	Granadilla	BU10-centro	28,0581	-16,5136	14,1	01/09/2008		470,4	22,82	no
+Gran Canaria	Perez1996	Risco.Verde		27,8589	-15,3861	10	01/07/1994		1853	22,9	no
+Tenerife	Caracterización.Granadilla	Granadilla	Zona media	28,0659	-16,5009	14,8	21/08/2004	86,3	720,83	22,9	no
+Tenerife	CIMA	Granadilla	BU8-centro	28,0480	-16,5251	13,3	01/09/2008		348,8	22,93	no
+Gran Canaria	Perez1996	Pasito	A	27,7438	-15,6178	8	01/12/1994		629	23	no
+Gran Canaria	P.Conservación.C.nodosa	Ingles	Inglès	27,7493	-15,5647	7,2	13/03/2006	75,6	526,6	23	si
+Gran Canaria	PVA.Manc.Sureste	Formas	Formas	27,8369	-15,4099	16,9	15/11/2012	98,4	489,6	23	no
+Fuerteventura	Elittoral.Reconocimiento.aguas	Playa.Blanca	B	28,4784	-13,8639	12	01/02/2009	88	736	23,1	no
+Tenerife	Caracterización.Granadilla	Granadilla	Extremo norte Pta.  Camello	28,0759	-16,4884	12,6	20/08/2004	51,3	583,33	23,1	no
+Lanzarote	Caracterización.DMA 	Playa.Blanca	Pto del Rosario	28,4803	-13,8615	12,6	25/08/2008	96	736	23,13	no
+Tenerife	CIMA	Granadilla	BU7-final	28,0380	-16,5335	21,6	01/09/2008		233,6	23,16	no
+Fuerteventura	CCV	Morrojable	B	28,0479	-14,3539	15	11/03/2005		220	23,2	si
+Gran Canaria	Perez1996	Pasito	50	27,7458	-15,6186	8	01/12/1994		895	23,3	no
+Tenerife	Plan.Conservación.C.nodosa	El.Porís	Bahía del Poris	28,1564	-16,4299	7,8	18/04/2006	76,4	522,18	23,3	si
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/09/2021		2010	23,3	si
+Tenerife	CIMA	Granadilla	BU10-centro	28,0581	-16,5136	14,1	17/05/2004		844,8	23,36	no
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	23/03/2012	66	768	23,4	no
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/02/2014		1376	23,4	no
+La Gomera	Elittoral.Reconocimiento.aguas	Negra	Cala de La Negra	28,0292	-17,2799	14,6	27/02/2008	44	218,67	23,4	si
+La Gomera	Plan.Conservación.C.nodosa	Negra	B	28,0173	-17,2924	14	01/02/2009	30	218,67	23,4	si
+La Gomera	Caracterización.DMA 	Negra	Cala de La Negra	28,0292	-17,2799	14,8	06/02/2006	51,5	192,18	23,46	si
+Lanzarote	Caracterización.DMA 	Playa.Blanca	Pto del Rosario	28,4803	-13,8615	12,5	23/02/2008	94,4	506,67	23,47	no
+Tenerife	CIMA	Granadilla	BU9-final	28,0513	-16,5194	24,8	01/09/2008		387,2	23,5	no
+Tenerife	Caracterización.Granadilla	Granadilla	Extremo norte Pta.  Camello	28,0759	-16,4884	8,9	20/08/2004	58,1	540,28	23,52	no
+Tenerife	Caracterización.Granadilla	Granadilla	Zona media	28,0659	-16,5009	6,8	21/08/2004	79,2	723,61	23,56	no
+Tenerife	CIMA	Igueste	IG-5	28,5152	-16,1667	15	20/04/2005		211,2	23,6	si
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/09/2021		1952	23,6	no
+Tenerife	CIMA	Granadilla	BU7-centro	28,0384	-16,5341	14,6	18/05/2004		603,2	23,69	no
+Gran Canaria	CCV	Maspalomas	A	27,7286	-15,6009	12	23/10/2004	56,2	236	23,7	si
+Gran Canaria	CCV	Aguila	A	27,7719	-15,5297	6	15/07/2003	25	250,6	23,7	no
+Tenerife	CIMA	Granadilla	BU9-inicio	28,0524	-16,5223	10,3	01/09/2008		470,4	23,72	no
+Gran Canaria	Elittoral.PVA Sur	Pasito	Seba_6	27,7400	-15,6150	9	01/09/2012		498	23,8	no
+Gran Canaria	Perez1996	Pasito	200	27,7500	-15,6167	5	01/06/1994		1161	23,8	no
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	01/09/2019		954	23,8	si
+Tenerife	Caracterización.Granadilla	Granadilla	Zona sur - Mtña Pelada	28,0549	-16,5143	5,9	22/08/2004	82,6	725	23,84	no
+Gran Canaria	Perez1996	Arinaga	enfilaciòn	27,8483	-15,3950	9	01/02/1996		2120	24	no
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/09/2021		1712	24	si
+Fuerteventura	CCV	Esquinzo	A	28,0759	-14,2921	15	12/03/2005		288	24,1	si
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	01/08/2018		533	24,1	no
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/03/2015		864	24,1	no
+Gran Canaria	Tuya.et.al.2013	Risco.Verde	A	27,8553	-15,3850	9	01/08/2011		66	24,1	no
+Gran Canaria	P.Conservación.C.nodosa	Gando	Gando	27,9293	-15,3723	9,5	07/03/2006	46,3	265,6	24,12	si
+Lanzarote	Elittoral.Reconocimiento.aguas	Guasimeta	B	28,9384	-13,6027	14	01/02/2009	66,4	310,4	24,13	si
+Lanzarote	Caracterización.DMA 	Playa.Quemada	Playa Quemada	28,9054	-13,7349	12,4	22/02/2008	56	300,8	24,13	no
+Gran Canaria	P.Conservación.C.nodosa	Maspalomas	Maspalomas	27,7173	-15,5875	9,8	14/03/2006	71,1	452,1	24,18	si
+Gran Canaria	Afección.Playa.Veril	Ingles	El Veril	27,7604	-15,5599	4,2	04/05/2009	82,8	328,4	24,2	si
+Gran Canaria	P.Conservación.C.nodosa	Taliarte	Exterior	27,9889	-15,3698	6,9	06/03/2006	62,4	223,5	24,2	no
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	01/09/2019		1237	24,2	si
+La Gomera	Elittoral.Reconocimiento.aguas	Cabrito	Playa del Cabrito	28,0572	-17,1359	16,8	27/08/2008	68,8	360,53	24,2	si
+La Gomera	Caracterización.DMA 	Cabrito	B	28,0428	-17,1419	17	01/08/2008	53,6	360,53	24,2	si
+Tenerife	CIMA	Granadilla	BU7-centro	28,0384	-16,5341	14,6	01/09/2008		590,4	24,23	no
+Gran Canaria	P.Conservación.C.nodosa	Anfi	Anfi	27,7709	-15,6941	6,7	16/03/2006	76,6	428,6	24,3	si
+Gran Canaria	PN.Indicadores 	Anfi	Anfi	27,7709	-15,6941	6,9	10/06/2007	69,6	451,8	24,3	si
+Tenerife	Mruiz	Abades	Abades	28,1402	-16,4391	6	19/07/2006	71,5	318,16	24,3	no
+Gran Canaria	CIMA	Tufia	SEB-3	27,9600	-15,3797	3	25/02/2007	26	208	24,4	no
+Lanzarote	Plan.Conservación.C.nodosa	Guasimeta	Güasimeta	28,9384	-13,6027	12,3	03/04/2006	85,6	458,25	24,5	si
+Fuerteventura	Plan.Conservación.C.nodosa	Costa.Calma	Costa Calma	28,1511	-14,2220	10,2	28/03/2006	86,4	521,33	24,5	si
+Fuerteventura	CCV	Morrojable	A	28,0476	-14,3538	20	11/03/2005		394	24,5	si
+Gran Canaria	CCV	Pasito	A	27,7406	-15,6149	4	08/03/2005	46,2	426	24,5	no
+Gran Canaria	Perez1996	Pasito	50	27,7458	-15,3853	8	01/03/1996		380	24,5	no
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	01/09/2016		810	24,5	si
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	01/09/2020		832	24,5	si
+Gran Canaria	PN.Indicadores 	Ingles	Inglès	27,7493	-15,5647	7,6	10/06/2007	85,9	571,14	24,6	si
+Gran Canaria	Proy.Venturi	Ingles	Inglès	27,7630	-15,5598	5,8	06/11/2009	82,1	392,3	24,6	si
+Tenerife	Plan.Conservación.C.nodosa	Tejita	La Tejita	28,0266	-16,5555	9,7	20/04/2006	89,7	604,56	24,6	si
+Tenerife	Mruiz	La.Caleta	Adeje	28,0939	-16,7598	10,8	18/07/2006	81,13	478,15	24,6	si
+Gran Canaria	CCV	Pasito	C	27,7406	-15,6149	4	08/03/2005		420	24,7	no
+Fuerteventura	Plan.Conservación.C.nodosa	Playitas	Las Playitas	28,2251	-13,9847	8,4	27/03/2006	85,2	512,3	24,8	no
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Playa Aceituno	28,2059	-14,0323	10,3	05/04/2005	42,11	398,5	24,8	si
+Gran Canaria	P.Conservación.C.nodosa	Juncalillo	Punta de Tarajalillo	27,7839	-15,4992	6,9	10/03/2006	66,8	425,25	24,8	no
+Gran Canaria	DEA.Mruiz	Melenara	Melenara	27,9880	-15,3714	7,2	02/02/2009	56	246	24,8	no
+Tenerife	CIMA	Granadilla	BU5-final	28,0253	-16,5897	21	01/09/2008		304	24,82	no
+Gran Canaria	CIMA	Tarajalillo	TAR-1	27,7631	-15,5553	11	18/05/2008		324,8	24,9	no
+Gran Canaria	Perez1996	Gando	castillo	27,9313	-15,3706	9	01/08/1995		1447	24,9	si
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	30/09/2011	33	1213	24,9	no
+El Hierro	Elittoral.Reconocimiento.aguas	Estaca	A	27,7828	-17,8995	11	01/02/2009	82	305,07	24,93	no
+El Hierro	Caracterización.DMA 	Estaca	Fuera Espigón 	27,7832	-17,8996	12	26/02/2008	94,4	305,07	24,93	no
+Gran Canaria	CCV	Pasito	B	27,7406	-15,6149	4	08/03/2005		364	25	no
+Gran Canaria	P.Conservación.C.nodosa	Arinaga	Bahía	27,8531	-15,3965	7,2	08/03/2006	94,2	621,12	25	no
+La Gomera	Elittoral.Reconocimiento.aguas	Negra	B	28,0428	-17,1419	16	01/02/2009	38,8	334,93	25	si
+La Gomera	Caracterización.DMA 	Negra	Cala de La Negra	28,0292	-17,2799	15	27/08/2008	40,8	334,93	25	si
+Tenerife	CIMA	Granadilla	BU6-centro	28,0273	-16,5595	15,6	01/09/2008		702,4	25,03	no
+Lanzarote	Caracterización.DMA 	Arrieta	Arrieta	29,1240	-13,4586	13	22/08/2008	100	755,2	25,26	no
+Lanzarote	Elittoral.Reconocimiento.aguas	Arrieta	B	29,1240	-13,4586	13	01/08/2008	82,8	755	25,3	no
+Tenerife	CIMA	Granadilla	BU12-inicio	28,0737	-16,5029	8,3	17/05/2004		326,4	25,33	no
+Gran Canaria	PN.Indicadores 	Arinaga	Bahía	27,7525	-15,6697	7,3	11/06/2007	96	569,17	25,4	no
+Gran Canaria	Perez1996	Risco.Verde		27,8589	-15,3861	10	01/08/1995		1612	25,4	no
+Tenerife	DEA.Mruiz	Abades	Abades	28,1402	-16,4391	10,9	04/02/2008	76,25	330	25,4	no
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	01/09/2016		378	25,4	no
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	01/09/2019		1120	25,5	no
+Fuerteventura	Plan.Conservación.C.nodosa	Playa.Blanca	Pto del Rosario	28,4803	-13,8615	9,1	27/03/2006	92,1	526,6	25,6	no
+Gran Canaria	P.Conservación.C.nodosa	Formas	Formas	27,8369	-15,4099	16,1	08/03/2006	75,2	456,32	25,6	no
+Gran Canaria	CIMA	Tufia	SEB-3	27,9600	-15,3797	3	06/12/2006	28	240	25,6	no
+Lanzarote	Caracterización.DMA 	Playa.Quemada	Playa Quemada	28,9054	-13,7349	12,8	23/08/2008	58,4	297,6	25,66	no
+Lanzarote	Elittoral.Reconocimiento.aguas	Playa.Quemada	B	28,9053	-13,7349	13	01/08/2008	52,8	297,6	25,66	no
+Fuerteventura	Elittoral.Reconocimiento.aguas	Gran.Tarajal	B	28,2054	-14,0262	12	01/08/2008	61,2	475	25,7	si
+Fuerteventura	Caracterización.DMA 	Gran.Tarajal	Espigón muelle	28,2045	-14,0354	13,6	25/08/2008	74,4	475,73	25,73	si
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Playa Gran Tarajal	28,2085	-14,0217	7,8	05/04/2005	58,5	433,36	25,8	si
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Playa Aceituno	28,2059	-14,0323	10,8	06/08/2005	52,6	364,16	25,8	si
+Gran Canaria	PN.Indicadores 	Ingles	Inglès	27,7493	-15,5647	8,1	22/11/2007	82,6	492,5	25,8	si
+Fuerteventura	CCV	Gran.Tarajal	B	28,2054	-14,0262	10	14/03/2005	100	424	25,9	si
+Tenerife	Plan.Conservación.C.nodosa	San.Juan	San.Juan	28,1768	-16,8133	12,4	24/04/2006	74,1	326,66	25,9	si
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Playa Aceituno	28,2059	-14,0323	10,5	19/02/2004	42,11	544,44	25,98	si
+Tenerife	CIMA	Igueste	IG-7	28,5155	-16,1519	23,5	01/04/2006		390,4	26	si
+Tenerife	CIMA	Igueste	IG-5	28,5152	-16,1667	15	01/04/2006		211,2	26	si
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Espigón muelle	28,2053	-14,0266	12,6	18/02/2004	52,56	657,94	26,01	si
+Tenerife	CIMA	Granadilla	BU11-inicio	28,0631	-16,5113	8	17/05/2004		512	26,04	no
+Tenerife	CIMA	Granadilla	BU8-final	28,0469	-16,5238	24,3	18/05/2004		377,6	26,04	no
+Lanzarote	Plan.Conservación.C.nodosa	Playa.Quemada	Playa Quemada	28,9054	-13,7349	9,8	04/04/2006	75,2	384,6	26,1	no
+El Hierro	CCV	Caleta	B	27,7994	-17,8877	11	20/03/2005	100	315	26,1	no
+Gran Canaria	CCV	Maspalomas	B	27,7286	-15,6009	11	18/10/2003	75	426	26,2	si
+Gran Canaria	CIMA	Tarajalillo	TAR-2	27,7628	-15,5550	11,3	18/05/2008		288	26,2	no
+Gran Canaria	Proy.Venturi	Ingles	Inglès	27,7630	-15,5598	5,6	12/05/2009	86,8	428,3	26,2	si
+Tenerife	CIMA	Granadilla	BU9-final	28,0513	-16,5194	24,8	17/05/2004		467,2	26,24	no
+Lanzarote	Plan.Conservación.C.nodosa	Arrieta	Arrieta	29,1240	-13,4586	11,5	03/04/2006	80,2	369,12	26,3	no
+Lanzarote	Elittoral.Reconocimiento.aguas	Arrieta	A	29,1240	-13,4586	9	01/08/2008	56	377	26,3	no
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Bocaina puerto	28,2066	-14,0236	8,7	04/04/2005	55,6	405,45	26,3	si
+Lanzarote	Caracterización.DMA 	Arrieta	Arrieta	29,1240	-13,4586	9,2	22/08/2008	83,2	377,6	26,33	no
+Gran Canaria	Perez1996	Pasito	300S	27,7444	-15,6150	8	01/05/1995		914	26,4	no
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/09/2015		1184	26,4	si
+Gran Canaria	Proy.Venturi	Ingles	Inglès	27,7630	-15,5598	5,8	12/11/2010	83,8	398,4	26,5	si
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	01/09/2021		1552	26,5	si
+Fuerteventura	Plan.Conservación.C.nodosa	Tarajalejo	Tarajalejo	28,1864	-14,1239	8,8	28/03/2006	80,5	458,3	26,6	si
+Gran Canaria	PVA.Procría	Juncalillo	Castillo del Romeral	27,7884	-15,4923	7	08/06/2010	84	373,3	26,6	no
+Gran Canaria	P.Conservación.C.nodosa	Cochino	Cochino	27,7608	-15,5596	5,8	13/03/2006	75,5	458,5	26,6	no
+Gran Canaria	Elittoral.PVA Sur	Veril	B	27,7618	-15,5571		01/08/2008	32	329,2	26,6	no
+Gran Canaria	Est.Preoperacional.PCR	Juncalillo	Castillo del Romeral	27,7885	-15,4951	6,6	06/07/2005	57,45	376	26,6	no
+Tenerife	Mruiz	Abades	Abades	28,1402	-16,4391	18	19/07/2006	64,5	424,12	26,6	no
+Tenerife	Plan.Conservación.C.nodosa	Abrigos	Los Abrigos	28,0265	-16,5957	11,3	20/04/2006	78,4	471,16	26,6	si
+Tenerife	CIMA	San.Blas 	M5	28,0251	-16,5988	11,8	13/10/2004		569,6	26,6	no
+Tenerife	CIMA	Granadilla	BU11-centro	28,0620	-16,5088	13	17/05/2004		657,6	26,66	no
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Playa Gran Tarajal	28,2085	-14,0217	7,7	06/08/2005	68,11	438,12	26,7	si
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/08/2018		1930	26,7	no
+Tenerife	Reyes.et.al.1996	Medano	A	28,0430	-16,5376	6	01/07/1991	100	1652	26,7	si
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	27/03/2012	66	505	26,7	si
+Tenerife	CIMA	Granadilla	BU9-centro	28,0521	-16,5211	14,3	17/05/2004		382,4	26,72	no
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Espigón muelle	28,2053	-14,0266	11,6	12/08/2004	61,6	512,6	26,8	si
+Tenerife	DEA.Mruiz	Abades	Abades	28,1402	-16,4391	10,8	09/09/2006	92,25	458,6	26,8	no
+Tenerife	Plan.Conservación.C.nodosa	La.Caleta	La Caleta	28,0939	-16,7598	14,5	24/04/2006	85,4	452,8	26,8	si
+El Hierro	P.Conservación.C.nodosa	Estaca	Fuera Espigón 	27,7832	-17,8996	21	02/02/2006	92,8	346,18	26,9	no
+Fuerteventura	Barberá.et.al.2005	Gran.Tarajal	A	28,2082	-14,0219	14	18/03/2003	84,7	290	27	si
+Gran Canaria	Perez1996	Roque.Arinaga		27,8639	-15,3800	14	01/08/1995		1396	27,1	no
+Tenerife	Reyes.et.al.1996	Medano	A	28,0430	-16,5376	6	01/02/1992	100	1186	27,1	si
+Tenerife	CIMA	Granadilla	BU5-centro	28,0263	-16,5904	12,4	18/05/2004		702,4	27,15	no
+Fuerteventura	Elittoral.Reconocimiento.aguas	Gran.Tarajal	A	28,2054	-14,0262	7	01/08/2008	88	767	27,2	si
+Gran Canaria	Proy.Venturi	Ingles	Inglès	27,7630	-15,5598	5,9	29/11/2011	87,2	454,66	27,2	si
+Gran Canaria	Perez1996	Arinaga	interna	27,8533	-15,3967	5	01/02/1996		1638	27,2	no
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Bocaina puerto	28,2066	-14,0236	8,8	18/02/2004	45,44	636,11	27,41	si
+Tenerife	CIMA	San.Blas 	M1	28,0216	-16,5983	26	11/10/2004		179,2	27,42	no
+Gran Canaria	Tuya.2a.Metodologia	Pasito	seba corr	27,7438	-15,6178	8	01/12/2012		28	27,5	no
+Gran Canaria	PVA.Procría	Juncalillo	Castillo del Romeral	27,7884	-15,4923	7,5	10/11/2010	86	311,1	27,56	no
+Gran Canaria	Perez1996	Arinaga	media	27,8508	-15,3975	5	01/06/1995		1536	27,6	no
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	10/10/2011	33	509	27,6	no
+Fuerteventura	Caracterización.DMA 	Gran.Tarajal	Espigón muelle	28,2045	-14,0354	7,8	25/08/2008	100	766,93	27,66	si
+Gran Canaria	Tuya.2a.Metodologia	Pasito	seba 8	27,7438	-15,6178	8	01/12/2012		31,5	27,66667	no
+Gran Canaria	PVA.Emisarios.Cochinos	Ingles	Inglès	27,7849	-15,5641	6,9	03/11/2011	96,13	609,48	27,7	si
+Gran Canaria	PVA.Emisarios.Cochinos	Ingles	Inglès	27,7849	-15,5641	7,1	06/11/2012	89,33	433,19	27,7	si
+Gran Canaria	CIMA	Arinaga	S4M1	27,8328	-15,4126	15,5	30/05/2005	30,62	560	27,73	no
+Lanzarote	Elittoral.Reconocimiento.aguas	Playa.Blanca	A	28,8598	-13,8273	7	01/02/2009	82,4	592	27,8	no
+Lanzarote	Caracterización.DMA 	Playa.Blanca	Pto del Rosario	28,4803	-13,8615	7	25/08/2008	98,4	592	27,8	no
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	23/03/2012	100	1104	27,8	si
+Gran Canaria	CIMA	Burras	BUR-2	27,7656	-15,5508	7,5	20/05/2008		240	28	no
+Tenerife	CIMA	Granadilla	BU6-inicio	28,0299	-16,5595	6,7	18/05/2004		297,6	28	no
+Tenerife	Mruiz	La.Caleta	Adeje	28,0939	-16,7598	22,5	18/07/2006	50,63	392,56	28,13	si
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Espigón muelle	28,2053	-14,0266	12,6	05/08/2005	66,13	492,5	28,2	si
+Gran Canaria	CIMA	Burras	BUR-1	27,7653	-15,5503	7	20/05/2008		310,4	28,2	no
+Tenerife	Reyes.et.al.1996	Medano	A	28,0430	-16,5376	6	01/07/1990	100	1460	28,2	si
+El Hierro	P.Conservación.C.nodosa	Estaca	Fuera Espigón 	27,7832	-17,8996	12	02/02/2006	94,6	396,15	28,2	no
+Gran Canaria	CCV	Maspalomas	A	27,7286	-15,6009	11	18/10/2003	57,5	406	28,25	si
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Bocaina puerto	28,2066	-14,0236	7,8	12/08/2004	55,8	428,4	28,4	si
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/08/2017		1040	28,4	no
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	01/09/2014		827	28,5	no
+Tenerife	Jacumar.Alc.Esp.Vert.Org	La.Caleta	Adeje	28,0939	-16,7598	12,6	14/06/2005	67,1	480,56	28,6	si
+Gran Canaria	Perez1996	Roque.Arinaga	A	27,8583	-15,3800	12	01/05/1995		1294	28,6	no
+Fuerteventura	Plan.Conservación.C.nodosa	Gran.Tarajal	Espigón muelle	28,2045	-14,0354	9,8	28/03/2006	89,6	498,6	28,7	si
+Gran Canaria	Perez1996	Arinaga	enfilaciòn	27,8483	-15,3950	9	01/05/1995		1701	28,7	no
+Tenerife	Plan.Conservación.C.nodosa	Medano	Bahía	28,0392	-16,5379	8,6	19/04/2006	94,3	694,54	28,7	si
+Gran Canaria	P.Conservación.C.nodosa	Arguineguín	Santa.Agueda	27,7525	-15,6697	5,4	16/03/2006	62,5	324,2	28,8	no
+Gran Canaria	PN.Indicadores 	Arinaga	Bahía	27,7525	-15,6697	6,9	23/11/2007	92,1	582,32	28,8	no
+Gran Canaria	PN.Indicadores 	Cabrón	Cabrón	27,8704	-15,3851	9,2	11/06/2007	92,5	697,89	28,8	si
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	01/08/2018		1722	28,8	si
+Gran Canaria	P.Conservación.C.nodosa	Bahia.Feliz	Bahia.Feliz	27,7773	-15,5214	4,9	10/03/2006	58,4	356,6	29	no
+Tenerife	CIMA	Igueste	IG-9	28,5316	-16,1303	13,5	21/04/2005		348,8	29	si
+Tenerife	CIMA	Granadilla	BU10-inicio	28,0591	-16,5167	6	01/09/2008		160	29,02	no
+Lanzarote	Caracterización.DMA 	Playa.Quemada	Playa Quemada	28,9054	-13,7349	7	23/08/2008	95,2	569,6	29,06	no
+Lanzarote	Elittoral.Reconocimiento.aguas	Playa.Quemada	A	28,9053	-13,7349	7	01/08/2008	83,6	569,6	29,06	no
+Gran Canaria	Proy.Venturi	Ingles	Inglès	27,7630	-15,5598	6,1	16/06/2010	92,4	492,6	29,1	si
+Gran Canaria	P.Conservación.C.nodosa	Cura	Cura	27,7913	-15,7328	11,3	16/03/2006	81,5	356,68	29,16	si
+Gran Canaria	CIMA	Arinaga	S3M2	27,8344	-15,4116	17	29/05/2005	24,5	984	29,25	no
+Gran Canaria	Tuya.2a.Metodologia	Pasito	seba 6	27,7438	-15,6178	8	01/12/2012		30,83333333	29,33333	no
+Fuerteventura	Est.Preop.GT	Gran.Tarajal	Playa Aceituno	28,2059	-14,0323	10,5	21/08/2003	72,11	628,8	29,4	si
+Fuerteventura	Plan.Conservación.C.nodosa	Morrojable	Cerca de la punta de MJ	28,0474	-14,3187	10,1	29/03/2006	92,4	578,8	29,4	si
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Bocaina puerto	28,2066	-14,0236	8,9	05/08/2005	45,2	305,6	29,5	si
+Fuerteventura	Plan.Conservación.C.nodosa	Jandía	Jandía	28,0917	-14,2746	10,5	29/03/2006	96,4	692,56	29,5	si
+Gran Canaria	PN.Indicadores 	Cabrón	Cabrón	27,8704	-15,3851	8,6	23/11/2007	89,9	618,23	29,5	si
+Tenerife	Plan.Conservación.C.nodosa	Granadilla	Punta del Camello	28,0759	-16,4884	12,7	19/04/2006	92,6	714,45	29,5	no
+Gran Canaria	Perez1996	Taliarte	150	27,9889	-15,3694	9	01/08/1994		1409	29,54	no
+Fuerteventura	Est.Preop.GT	Gran.Tarajal	Playa Gran Tarajal	28,2085	-14,0217	7,8	21/08/2003	68,32	568,16	29,6	si
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Playa Aceituno	28,2059	-14,0323	9,1	13/08/2004	52,1	395,6	29,6	si
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	14/10/2011	66	592	29,6	si
+Gran Canaria	Elittoral.PVA Sur	Pasito	Seba_8	27,7440	-15,6246	9	01/09/2012		834	29,8	no
+Gran Canaria	P.Conservación.C.nodosa	Cabrón	Cabrón	27,8704	-15,3851	8,6	08/03/2006	86,3	712,56	29,8	si
+Tenerife	CIMA	Igueste	IG-4	28,5173	-16,1612	15	20/04/2005		320	29,8	si
+Tenerife	Plan.Conservación.C.nodosa	Abades	Abades	28,1402	-16,4391	12,9	18/04/2006	81,9	396,66	29,8	no
+Tenerife	CIMA	Granadilla	BU10-inicio	28,0591	-16,5167	6	17/05/2004		307,2	29,85	no
+Tenerife	DEA.Mruiz	Abades	Abades	28,1402	-16,4391	11,1	12/09/2007	90	458	29,9	no
+Tenerife	CIMA	San.Blas 	M2	28,0248	-16,5996	11	12/10/2004		473,6	29,9	no
+Tenerife	CCV	Americas	A	28,0758	-16,7397	12	12/10/2003		168	30	si
+Tenerife	CCV	Americas	B	28,0758	-16,7397	12	12/10/2003		402	30	si
+Gran Canaria	PN.Indicadores	Güi-güi	Güi-güi	27,9425	-15,8331	11,4	08/06/2007	79,6	412,82	30,05	si
+Gran Canaria	Perez1996	Roque.Arinaga		27,8639	-15,3800	14	01/08/1994		1193	30,1	no
+Tenerife	CIMA	Granadilla	BU5-final	28,0253	-16,5897	21	18/05/2004		268,8	30,12	no
+Tenerife	CIMA	Granadilla	BU7-inicio	28,0416	-16,5397	3,3	18/05/2004		502,4	30,17	no
+Gran Canaria	PVA.Emisarios.Cochinos	Ingles	Inglès	27,7849	-15,5641	6,8	20/10/2010	88,6	348,44	30,26	si
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	01/09/2021		1333	30,3	no
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	27/03/2012	100	1242	30,4	no
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Playa Gran Tarajal	28,2085	-14,0217	6,9	13/08/2004	45,8	456,8	30,5	si
+Fuerteventura	Est.Preop.GT	Gran.Tarajal	Espigón muelle	28,2053	-14,0266	12,6	20/08/2003	63,26	828,12	30,51	si
+Fuerteventura	PVA.Muelle.GT	Gran.Tarajal	Playa Gran Tarajal	28,2085	-14,0217	7,8	19/02/2004	48,56	458,33	30,59	si
+Tenerife	Plan.Conservación.C.nodosa	Teno	Teno	28,3292	-16,9013	17,5	25/04/2006	66,6	329,16	30,6	si
+Gran Canaria	CIMA	Arinaga	S1M2	27,8538	-15,3945	9	29/05/2005	74,37	1552	30,7	no
+Lanzarote	CCV	Caleta.Sebo	A	29,2273	-13,4998	10	16/10/2004	100	758	31,1	si
+Fuerteventura	Est.Preop.GT	Gran.Tarajal	Bocaina puerto	28,2066	-14,0236	8,8	20/08/2003	55,48	526,52	31,12	si
+Fuerteventura	Plan.Conservación.C.nodosa	Esquinzo	Esquinzo	28,0651	-14,3034	10,7	29/03/2006	94,2	601,23	31,2	si
+Tenerife	DEA.Mruiz	Abades	Abades	28,1402	-16,4391	10,8	02/08/2008	75	304	31,2	no
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	01/08/2018		1504	31,2	si
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	01/09/2021		1045	31,2	si
+Tenerife	CIMA	San.Blas 	M7	28,0231	-16,5973	20,7	12/10/2004		499,2	31,2	no
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	01/09/2014		896	31,3	si
+Tenerife	CIMA	Igueste	IG-9	28,5316	-16,1303	13,5	01/04/2006		544	31,48	si
+Gran Canaria	Proy.Venturi	Ingles	Inglès	27,7630	-15,5598	6,7	28/05/2011	89,6	684,4	31,5	si
+Gran Canaria	P.Conservación.C.nodosa	Burras	Burras	27,7658	-15,5488	5,3	13/03/2006	64,8	412,6	31,5	no
+Gran Canaria	PN.Indicadores	Veneguera	Veneguera	27,8416	-15,7944	12,1	08/06/2007	91,2	492,5	31,5	si
+Tenerife	Plan.Conservación.C.nodosa	Montaña.Pelada	Montaña Pelada	28,0549	-16,5143	9,1	19/04/2006	96,5	762,63	31,5	si
+Tenerife	Plan.Conservación.C.nodosa	Los.Cristianos	Fuera muelle 	28,0454	-16,7217	12,8	24/04/2006	71,4	422,15	31,5	si
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/09/2015		821	31,8	si
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/08/2018		1733	31,8	si
+Fuerteventura	CCV	Gran.Tarajal	A	28,2054	-14,0262	10	14/03/2005	100	510	32	si
+Gran Canaria	CCV	S.Agueda	A	27,7529	-15,6670	10	10/06/2005	94,5	198	32	no
+Gran Canaria	Perez1996	Arinaga	enfilaciòn	27,8483	-15,3950	9	01/10/1995		1485	32	no
+Tenerife	Plan.Conservación.C.nodosa	Masca	Masca	28,2864	-16,8656	18,6	25/04/2006	69,4	358,58	32,1	si
+Tenerife	Reyes.et.al.1996	Medano	A	28,0430	-16,5376	6	01/07/1992	100	1850	32,2	si
+Gran Canaria	PN.Indicadores 	Güi-güi	Güi-güi	27,9425	-15,8331	16,8	26/11/2007	72,4	362,45	32,5	si
+Gran Canaria	CIMA	Arinaga	S1M1	27,8525	-15,3958	8	29/05/2005	60,62	1536	32,51	no
+Tenerife	Plan.Conservación.C.nodosa	Igueste	Espigón norte	28,5063	-16,1803	10,6	17/04/2006	82,8	416,46	32,6	si
+Tenerife	Seguim.Aut.Port.TF	Igueste	San Andrés	28,5063	-16,1803	12	16/08/2011	85,5	465,6	32,63	si
+Tenerife	CIMA	Granadilla	BU5-inicio	28,0273	-16,5913	8	18/05/2004		332,8	32,79	no
+Gran Canaria	Elittoral.PVA Sur	Pasito	Seba_corr	27,7437	-15,6204	9	01/09/2012		405	32,8	no
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/10/2011	33	1280	32,8	si
+Tenerife	OAG	Igueste	TSA11 (S Andrès)	28,5019	-16,1883	11	01/08/2009	80	1150	33	si
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/09/2014		762	33,1	no
+Tenerife	CIMA	Granadilla	BU13-inicio	28,0809	-16,4888	12	12/05/2004		387,2	33,12	no
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	01/09/2016		613	33,3	no
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	01/09/2016		1269	33,4	si
+Tenerife	CIMA	Granadilla	BU7-final	28,0380	-16,5335	21,6	18/05/2004		464	34,11	no
+Gran Canaria	P.Conservación.C.nodosa	Güi-güi	Güi-güi	27,9425	-15,8331	14,8	17/03/2006	81,3	426,89	34,18	si
+Gran Canaria	P.Conservación.C.nodosa	Pasito	Detrás espigón	27,7444	-15,6238	12,8	14/03/2006	70,8	451,23	34,2	no
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/09/2015		1029	34,2	no
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	01/08/2017		1450	34,4	si
+Tenerife	CIMA	Granadilla	BU9-inicio	28,0524	-16,5223	10,3	17/05/2004		384	34,48	no
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	01/09/2015		768	34,5	si
+Tenerife	OAG	Tarajales	TGr05	28,0882	-16,4859	12	01/09/2014		315	34,6	no
+Tenerife	CIMA	Granadilla	BU6-centro	28,0273	-16,5595	15,6	18/05/2004		523,2	34,64	no
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/09/2014		762	35	si
+Tenerife	OAG	Lajón	TGr08	28,0816	-16,4849	13	01/09/2014		1429	35,2	no
+Gran Canaria	CCV	S.Agueda	B	27,7529	-15,6670	11	10/06/2005	92,5	257	35,4	no
+Gran Canaria	P.Conservación.C.nodosa	Veneguera	Veneguera	27,8416	-15,7944	13,6	17/03/2006	78,8	478,26	35,4	si
+Tenerife	OAG	Medio	TGr10	28,0715	-16,5008	14	01/09/2015		427	35,7	no
+Tenerife	OAG	Igueste	TSA12 (Organos)	28,5058	-16,1800	20	01/08/2009	50	360	36	si
+El Hierro	Elittoral.Reconocimiento.aguas	Estaca	A	27,7828	-17,8995	11	01/08/2008	79,6	334,93	36	no
+El Hierro	Caracterización.DMA 	Estaca	Fuera Espigón 	27,7832	-17,8996	11	29/08/2008	94,4	334,93	36	no
+El Hierro	Elittoral.Reconocimiento.aguas	Estaca	B	27,7828	-17,8995	18	01/08/2008	70,8	322,13	36,46	no
+El Hierro	Caracterización.DMA 	Estaca	Fuera Espigón 	27,7832	-17,8996	18	29/08/2008	96,8	322,13	36,46	no
+Gran Canaria	PN.Indicadores 	Veneguera	Veneguera	27,8416	-15,7944	14,3	26/11/2007	82,6	326,18	36,8	si
+Tenerife	OAG	Jaquita	TGr18	28,0463	-16,5248	17	01/09/2020		1088	37,3	si
+Gran Canaria	Polifrone.et.al.2006	Tiritaña		27,8072	-15,7456		03/06/2004		238,9	37,5	no
+Tenerife	OAG	Tejita	TGr22	28,0277	-16,5600	12	01/09/2015		656	37,6	si
+Gran Canaria	CCV	Maspalomas	B	27,7286	-15,6009	10	18/07/2003		429	38,9	si
+Tenerife	OAG	Medano	TGr19	28,0390	-16,5340	12	01/08/2017		1568	39,5	si
+Gran Canaria	Tuya.et.al.2013	Ingles	A	27,7487	-15,5643	8	05/05/2011	100	310	40	si
+Tenerife	OAG	La.Caleta	TGr04	28,0986	-16,4723	16	01/09/2014		933	40,3	si
+Tenerife	OAG	Abejera	TGr13	28,0627	-16,5091	11	01/10/2011	33	1338	41,6	no
+Tenerife	OAG	Charcón	TGr14	28,0608	-16,5088	14	01/09/2014		928	41,9	si
+Gran Canaria	CCV	Maspalomas	A	27,7286	-15,6009	9	18/07/2003		275	45,3	si
+Fuerteventura	Polifrone.et.al.2006	Gran.Tarajal		28,2108	-14,0258		03_06/2004		611,1	46,5	si
+Lanzarote	Espino	Punta.Mujeres	75	29,1459	-13,4381	15	01/07/2003		1137,6		no
+Lanzarote	Espino	Punta.Mujeres	76	29,1422	-13,4391	20	01/07/2003		795,2		no
+Lanzarote	Espino	Ancones	80	29,0121	-13,4719	25	01/07/2003		611,2		no
+Lanzarote	Espino	Ancones	79	29,0129	-13,4723	20	01/07/2003		808		no
+Lanzarote	Espino	Ancones	78	29,0136	-13,4726	15	01/07/2003		1150,4		no
+Lanzarote	Espino	Ancones	77	29,0142	-13,4736	10	01/07/2003		801,6		no
+Lanzarote	Seguimiento.ZECs	Fariones	Pta. Fariones	29,2351	-13,4773	18	21/10/2011		250,67		si
+Lanzarote	Espino	Playa.Risco	74	29,2114	-13,4984	5	01/07/2003		547,2		si
+Lanzarote	Seguimiento.ZECs	Caleta.Sebo	LZ_09	29,2273	-13,4999	9	01/06/2015	38,9	693,6		si
+Lanzarote	Seguimiento.ZECs	Caleta.Sebo	LZ_09	29,2273	-13,4999	9	01/09/2018	62,1	296,1		si
+Lanzarote	Espino	Caleta.Sebo	70	29,2201	-13,5062	10	01/07/2003		1368		si
+Lanzarote	Espino	Salado	71	29,2217	-13,5072	10	01/07/2003		1947,2		si
+Lanzarote	Espino	Franceses	72	29,2179	-13,5291	10	01/07/2003		1081,6		si
+Lanzarote	Espino	Franceses	73	29,2170	-13,5300	15	01/07/2003		838,4		si
+Lanzarote	Seguimiento.ZECs	Franceses		29,2185	-13,5303	11	01/06/2015	71,4	544,4		si
+Lanzarote	Seguimiento.ZECs	Franceses		29,2185	-13,5303	12	01/09/2018	23,4	166,7		si
+Lanzarote	Seguimiento.ZECs	Guasimeta	Guasimeta	28,9513	-13,5790	8	08/04/2011		650,18		si
+Lanzarote	Espino	Guasimeta	81	28,9421	-13,6019	5	01/07/2003		165,76		si
+Lanzarote	Espino	Guasimeta	84	28,9348	-13,6023	20	01/07/2003		144		si
+Lanzarote	Espino	Guasimeta	83	28,9362	-13,6026	15	01/07/2003		737,6		si
+Lanzarote	Seguimiento.ZECs	Guasimeta	LZ_04	28,9384	-13,6027	9	01/06/2015	64,1	583		si
+Lanzarote	Seguimiento.ZECs	Guasimeta	LZ_04	28,9384	-13,6027	9	01/09/2018	31,3	274,9		si
+Lanzarote	Espino	Guasimeta	82	28,9384	-13,6027	10	01/07/2003		990,4		si
+Lanzarote	Espino	Pocillos	85	28,9249	-13,6304	5	01/07/2003		678,4		si
+Lanzarote	Espino	Pocillos	86	28,9231	-13,6327	10	01/07/2003		881,6		si
+Lanzarote	Seguimiento.ZECs	Pocillos		28,9231	-13,6328	8	01/06/2015	63,6	654,2		si
+Lanzarote	Seguimiento.ZECs	Pocillos		28,9231	-13,6328	8	01/09/2018	24,9	274,9		si
+Lanzarote	Espino	Pocillos	87	28,9205	-13,6350	15	01/07/2003		1033,6		si
+Lanzarote	CCV	Playa.Quemada	A	28,9044	-13,7348	6	15/03/2005	100	324		no
+Lanzarote	CCV	Playa.Quemada	B	28,9044	-13,7348	6	15/03/2005	100	696		no
+Lanzarote	Espino	Playa.Quemada	88	28,9045	-13,7361	10	01/07/2003		721,6		no
+Lanzarote	Espino	Playa.Quemada	89	28,9011	-13,7395	10	01/07/2003		896		no
+Lanzarote	Espino	Juradita	92	28,8441	-13,7753	15	01/07/2003		577,6		no
+Lanzarote	Espino	Juradita	90	28,8449	-13,7760	5	01/07/2003		689,6		no
+Lanzarote	Espino	Juradita	91	28,8449	-13,7775	10	01/07/2003		544		no
+Lanzarote	Espino	Papagayo	93	28,8442	-13,7906	5	01/07/2003		550,4		no
+Lanzarote	Espino	Playa.Dorada	94	28,8613	-13,8239	5	01/07/2003		1168		no
+Fuerteventura	Espino	Jablito	43	28,6052	-13,8253	5	01/07/2003		1286,4		si
+Fuerteventura	Espino	Playa.Blanca	97	28,8551	-13,8289	15	01/07/2003		564,8		no
+Fuerteventura	Espino	Playa.Blanca	95	28,8612	-13,8294	5	01/07/2003		1132,8		no
+Fuerteventura	Espino	Corralejo	40	28,6705	-13,8297	10	01/07/2003		660,8		si
+Fuerteventura	Espino	Corralejo	41	28,6691	-13,8298	15	01/07/2003		632		si
+Fuerteventura	Espino	Corralejo	42	28,6691	-13,8298	20	01/07/2003		705,6		si
+Fuerteventura	Plan.Conservación.C.nodosa	Corralejo	FV_1	28,6704	-13,8299		01/06/2015	72,6	466,6		si
+Fuerteventura	Plan.Conservación.C.nodosa	Corralejo	FV_1	28,6704	-13,8299		01/09/2018	0	0		si
+Fuerteventura	Espino	Playa.Blanca	96	28,8574	-13,8317	10	01/07/2003		700,8		no
+Fuerteventura	Espino	Puerto.Lajas	44	28,5369	-13,8369	5	01/07/2003		5086,4		no
+Fuerteventura	Espino	Puerto.Rosario	45	28,4972	-13,8525	10	01/07/2003		1400		no
+Fuerteventura	Espino	Playa.Blanca	47	28,4837	-13,8617	15	01/07/2003		550,4		no
+Fuerteventura	Espino	Playa.Blanca	46	28,4840	-13,8634	10	01/07/2003		681,6		no
+Lanzarote	Espino	Mulata	98	28,8589	-13,8637	5	01/07/2003		870,4		no
+Lanzarote	Espino	Mulata	99	28,8589	-13,8637	10	01/07/2003		425,6		no
+Fuerteventura	Espino	Jacomar	48	28,2629	-13,9094	20	01/07/2003		849,6		no
+Fuerteventura	Espino	Gran.Valle	50	28,2495	-13,9173	15	01/07/2003		849,6		no
+Fuerteventura	Espino	Gran.Valle	49	28,2499	-13,9195	10	01/07/2003		1086,4		no
+Fuerteventura	Espino	Entallada	51	28,2297	-13,9396	10	01/07/2003		1315,2		no
+Fuerteventura	Espino	Entallada	53	28,2263	-13,9603	10	01/07/2003		1073,6		no
+Fuerteventura	Espino	Entallada	52	28,2268	-13,9609	5	01/07/2003		1025,6		no
+Fuerteventura	Espino	Playitas	54	28,2269	-13,9863	5	01/07/2003		616,64		no
+Fuerteventura	Plan.Conservación.C.nodosa	Gran.Tarajal	FV_06	28,2082	-14,0206		01/06/2015	18,9	977		si
+Fuerteventura	Plan.Conservación.C.nodosa	Gran.Tarajal	FV_06	28,2082	-14,0206		01/09/2018	8,1	160,5		si
+Fuerteventura	Espino	Gran.Tarajal	55	28,2054	-14,0262	5	01/07/2003		1141,7		si
+Fuerteventura	Espino	Gran.Tarajal	56	28,2054	-14,0262	10	01/07/2003		1094,4		si
+Fuerteventura	Espino	Giniginamar	57	28,1998	-14,0742	5	01/07/2003		411,2		si
+Fuerteventura	Espino	Giniginamar	58	28,1967	-14,0768	10	01/07/2003		913,6		si
+Fuerteventura	Espino	Resbaladiza	59	28,1725	-14,1762	10	01/07/2003		403,2		si
+Fuerteventura	Plan.Conservación.C.nodosa	Costa.Calma	FV_08	28,1576	-14,2179		01/06/2015	0	0		si
+Fuerteventura	Plan.Conservación.C.nodosa	Costa.Calma	FV_08	28,1576	-14,2179		01/09/2018	80	592,4		si
+Fuerteventura	Espino	Costa.Calma	60	28,1511	-14,2220	5	01/07/2003		544		si
+Fuerteventura	Espino	Costa.Calma	61	28,1511	-14,2220	15	01/07/2003		342,4		si
+Fuerteventura	Espino	Risco.del.Paso	62	28,1030	-14,2646	10	01/07/2003		394,08		si
+Fuerteventura	Espino	Esquinzo	65	28,0737	-14,2931	15	01/07/2003		442,08		si
+Fuerteventura	Espino	Esquinzo	64	28,0751	-14,2938	10	01/07/2003		520		si
+Fuerteventura	Espino	Esquinzo	63	28,0757	-14,2944	5	01/07/2003		753,6		si
+Fuerteventura	Espino	Morrojable	68	28,0456	-14,3532	20	01/07/2003		380,8		si
+Fuerteventura	Espino	Morrojable	66	28,0472	-14,3535	10	01/07/2003		808,64		si
+Fuerteventura	Espino	Morrojable	67	28,0463	-14,3535	15	01/07/2003		427,2		si
+Fuerteventura	Espino	Punta.Jandía	69	28,0704	-14,4919	10	01/07/2003		851,2		si
+Gran Canaria	Resigrass	Juncalillo	Juncalillo	27,7884	-15,4923	5	21/11/2016		1180		no
+Gran Canaria	Resigrass	Juncalillo	Juncalillo	27,7884	-15,4923	6	11/03/2015		470,4		no
+Gran Canaria	Seguimiento.ZECs	Maspalomas	Maspalomas	27,7161	-15,5953	17	25/08/2011		110,22		si
+Gran Canaria	Espino	Maspalomas	19	27,7173	-15,5875	20	01/07/2003		848		si
+Gran Canaria	Espino	Maspalomas	18	27,7272	-15,5919	15	01/07/2003		846,4		si
+Gran Canaria	Espino	Maspalomas	17	27,7301	-15,5937	10	01/07/2003		513,6		si
+Gran Canaria	Masdunas	Ingles	Bajeta	27,7386	-15,5662	3,5	23/10/2018	53	358		si
+Gran Canaria	Masdunas	Ingles	Bajeta	27,7386	-15,5662	3,5	23/10/2018	71	425		si
+Gran Canaria	Masdunas	Ingles	Bajeta	27,7386	-15,5662	3,5	23/10/2018	72	440		si
+Gran Canaria	Espino	Meloneras	20	27,7406	-15,6149	10	01/07/2003		411,2		no
+Gran Canaria	Espino	Pasito	21	27,7406	-15,6149	5	01/07/2003		840		no
+Gran Canaria	Seguimiento.ZECs	Pasito	GC_07	27,7446	-15,6239	9	01/06/2015	31,8	654,3		no
+Gran Canaria	Seguimiento.ZECs	Pasito	GC_07	27,7446	-15,6239	9	01/09/2018	0	0		no
+Gran Canaria	Espino	S.Agueda	24	27,7454	-15,6632	15	01/07/2003		352		no
+Gran Canaria	Masdunas	Ingles	Inglès	27,7481	-15,5585	7,5	23/10/2018	64	440		si
+Gran Canaria	Masdunas	Ingles	Inglès	27,7481	-15,5585	7,5	23/10/2018	76	415		si
+Gran Canaria	Masdunas	Ingles	Inglès	27,7481	-15,5585	7,5	23/10/2018	81	485		si
+Gran Canaria	Espino	Ingles		27,7486	-15,5646	10	01/07/2003		1116,8		si
+Gran Canaria	Seguimiento.ZECs	Ingles	GC_05	27,7514	-15,5641	7	01/06/2015	45	982,2		si
+Gran Canaria	Seguimiento.ZECs	Ingles	GC_05	27,7514	-15,5641	7	01/09/2018	54,7	540,2		si
+Gran Canaria	Seguimiento.ZECs	Pajar	GC_08	27,7528	-15,6695	4	01/06/2015	72,1	709,4		no
+Gran Canaria	Seguimiento.ZECs	Pajar	GC_08	27,7528	-15,6695	5	01/09/2018	64,4	393		no
+Gran Canaria	Bañolas.et.al.2020	Pajar	Pajar	27,7537	-15,6696	4	01/11/2018		583		no
+Gran Canaria	Seguimiento.ZECs	Ingles	Inglès	27,7540	-15,5613	8	25/08/2011		392		si
+Gran Canaria	Espino	Cochino	15	27,7583	-15,5572	10	01/07/2003		947,2		no
+Gran Canaria	Masdunas	Ingles	Inglès	27,7593	-15,5564	5,5	23/10/2018	74	420		si
+Gran Canaria	Masdunas	Ingles	Inglès	27,7593	-15,5564	5,5	23/10/2018	75	305		si
+Gran Canaria	Masdunas	Ingles	Inglès	27,7593	-15,5564	5,5	23/10/2018	75	390		si
+Gran Canaria	Espino	Cochino	14	27,7608	-15,5596	5	01/07/2003		995,2		no
+Gran Canaria	Espino	Anfi	25	27,7650	-15,6906	15	01/07/2003		484,8		si
+Gran Canaria	Espino	Anfi	26	27,7650	-15,6906	15	01/07/2003		377,33		si
+Gran Canaria	Seguimiento.ZECs	Anfi	GC_09	27,7710	-15,6936	11	01/06/2015	35	605,2		si
+Gran Canaria	Seguimiento.ZECs	Anfi	GC_09	27,7710	-15,6936	12	01/09/2018	43,1	426,3		si
+Gran Canaria	Espino	Puerto.Rico	27	27,7778	-15,7081	15	01/07/2003		835,2		si
+Gran Canaria	Espino	Puerto.Rico	28	27,7778	-15,7101	20	01/07/2003		710,4		si
+Gran Canaria	Seguimiento.ZECs	Medio.Almud	GC_10	27,7782	-15,7478	13	01/06/2015	42,5	288		no
+Gran Canaria	Seguimiento.ZECs	Medio.Almud	GC_10	27,7782	-15,7478	14	01/09/2018	34,7	220,5		no
+Gran Canaria	Bañolas.et.al.2020	Juncalillo	Juncalillo	27,7857	-15,4930	6	01/11/2018		621		no
+Gran Canaria	Espino	Cardón	13	27,7875	-15,4923	10	01/07/2003		548,8		no
+Gran Canaria	Resigrass	Juncalillo	Juncalillo	27,7878	-15,4913	5	01/11/2016		737		no
+Gran Canaria	Resigrass	Juncalillo	Juncalillo	27,7878	-15,4913	5	01/03/2017		545		no
+Gran Canaria	Resigrass	Juncalillo	Juncalillo	27,7878	-15,4913	5	01/05/2017		1047		no
+Gran Canaria	Resigrass	Juncalillo	Juncalillo	27,7878	-15,4913	5	01/08/2017		1365		no
+Gran Canaria	Resigrass	Juncalillo	Juncalillo	27,7878	-15,4913	5	01/11/2017		905		no
+Gran Canaria	Resigrass	Juncalillo	Juncalillo	27,7878	-15,4913	5	01/01/2018		885		no
+Gran Canaria	Resigrass	Juncalillo	Juncalillo	27,7878	-15,4913	5	01/05/2018		1000		no
+Gran Canaria	Resigrass	Juncalillo	Juncalillo	27,7878	-15,4913	5	01/09/2018		1277		no
+Gran Canaria	Espino	Amadores	30	27,7888	-15,7267	15	01/07/2003		665,6		si
+Gran Canaria	Espino	Amadores	29	27,7896	-15,7256	10	01/07/2003		220,8		si
+Gran Canaria	Seguimiento.ZECs	Medio.Almud	Medio.Almud	27,8022	-15,7450	14	24/08/2011		187,2		no
+Gran Canaria	Espino	Taurito	33	27,8093	-15,7572	20	01/07/2003		684,8		si
+Gran Canaria	Espino	Taurito	32	27,8104	-15,7564	15	01/07/2003		705,44		si
+Gran Canaria	Espino	Taurito	31	27,8121	-15,7554	10	01/07/2003		555,2		si
+Gran Canaria	Espino	Veneguera	34	27,8416	-15,7944	10	01/07/2003		510,4		si
+Gran Canaria	Seguimiento.ZECs	Veneguera	GC_11	27,8419	-15,7944	15	01/06/2015	50	294,2		si
+Gran Canaria	Seguimiento.ZECs	Veneguera	GC_11	27,8419	-15,7944	16	01/09/2018	50,7	222,1		si
+Gran Canaria	Espino	Formas	12	27,8438	-15,4116	5	01/07/2003		1569,6		no
+Gran Canaria	Espino	Formas	11	27,8451	-15,4136	10	01/07/2003		1240		no
+Gran Canaria	Espino	Arinaga	9	27,8507	-15,3932	5	01/07/2003		1326,4		no
+Gran Canaria	Espino	Veneguera	36	27,8509	-15,8014	20	01/07/2003		428,8		si
+Gran Canaria	RESIGRASS	Veneguera	Veneguera	27,8510	-15,8014	15	13/08/2015		265,6		si
+Gran Canaria	Bañolas.et.al.2020	Arinaga	Bahia	27,8518	-15,3953	10	01/11/2018		383,8		no
+Gran Canaria	Resigrass	Arinaga	Centro	27,8518	-15,3953	9	11/08/2015	100	435,2		no
+Gran Canaria	Resigrass	Arinaga	Centro	27,8518	-15,3953	11	21/06/2016	100	626,26		no
+Gran Canaria	Resigrass	Arinaga	Centro	27,8518	-15,3953	11	01/11/2016		467		no
+Gran Canaria	Resigrass	Arinaga	Centro	27,8518	-15,3953	11	01/03/2017		420		no
+Gran Canaria	Resigrass	Arinaga	Centro	27,8518	-15,3953	11	01/05/2017		755		no
+Gran Canaria	Resigrass	Arinaga	Centro	27,8518	-15,3953	11	01/08/2017		872,5		no
+Gran Canaria	Resigrass	Arinaga	Centro	27,8518	-15,3953	11	01/11/2017		812,5		no
+Gran Canaria	Resigrass	Arinaga	Centro	27,8518	-15,3953	11	01/01/2018		357		no
+Gran Canaria	Resigrass	Arinaga	Centro	27,8518	-15,3953	11	01/05/2018		487,5		no
+Gran Canaria	Resigrass	Arinaga	Centro	27,8518	-15,3953	11	01/09/2018		625		no
+Gran Canaria	Espino	Veneguera	35	27,8519	-15,7986	15	01/07/2003		654,4		si
+Gran Canaria	Espino	Arinaga	10	27,8531	-15,3967	10	01/07/2003		859,2		no
+Gran Canaria	Seguimiento.ZECs	Arinaga	GC_03	27,8537	-15,3997	9	01/07/2015	0	0		no
+Gran Canaria	Seguimiento.ZECs	Arinaga	GC_03	27,8537	-15,3997	10	01/08/2018	0	0		no
+Gran Canaria	Bañolas.et.al.2020	Risco.Verde		27,8564	-15,3866	12	01/11/2018		80		no
+Gran Canaria	Bañolas.et.al.2020	Cabrón		27,8699	-15,3842	11	01/11/2018		618,2		si
+Gran Canaria	Espino	Cabrón	8	27,8699	-15,3839	10	01/07/2003		969,6		si
+Gran Canaria	Espino	Gando	B	27,8704	-15,3850	10	01/07/2003		750		si
+Gran Canaria	Seguimiento.ZECs	Cabrón	GC_02	27,8704	-15,3851	9	01/06/2015	33,5	346,0118997		si
+Gran Canaria	Seguimiento.ZECs	Cabrón	GC_02	27,8704	-15,3851	10	01/09/2018	0	0		si
+Gran Canaria	Espino	Vargas	7	27,8796	-15,3850	10	01/07/2003		552		no
+Gran Canaria	Martinez.Crego.et.al.2020	Burrero	7	27,9124	-15,3819		01/07/2014	89	787		no
+Gran Canaria	Espino	Burrero	6	27,9139	-15,3848	10	01/07/2003		912		no
+Gran Canaria	Bañolas.et.al.2020	Gando	Gando	27,9241	-15,3768	10	01/11/2018		621		si
+Gran Canaria	Martinez.Crego.et.al.2020	Gando	Gando	27,9248	-15,3806	10	01/07/2014	65,8	1215		si
+Gran Canaria	Resigrass	Gando	Gando	27,9248	-15,3806	9	11/08/2015		560		si
+Gran Canaria	Resigrass	Gando	Gando	27,9248	-15,3806	9	01/11/2016		677,5		si
+Gran Canaria	Resigrass	Gando	Gando	27,9248	-15,3806	9	01/03/2017		442		si
+Gran Canaria	Resigrass	Gando	Gando	27,9248	-15,3806	9	01/05/2017		922,5		si
+Gran Canaria	Resigrass	Gando	Gando	27,9248	-15,3806	9	01/08/2017		915		si
+Gran Canaria	Resigrass	Gando	Gando	27,9248	-15,3806	9	01/11/2017		768		si
+Gran Canaria	Resigrass	Gando	Gando	27,9248	-15,3806	9	01/01/2018		685		si
+Gran Canaria	Resigrass	Gando	Gando	27,9248	-15,3806	9	01/05/2018		920		si
+Gran Canaria	Resigrass	Gando	Gando	27,9248	-15,3806	9	01/09/2018		987		si
+Gran Canaria	Seguimiento.ZECs	Gando	Gando	27,9293	-15,3723	11	07/09/2011		392		si
+Gran Canaria	Seguimiento.ZECs	Gando	GC_01	27,9293	-15,3723	10	01/06/2015	32,5	601,06		si
+Gran Canaria	Seguimiento.ZECs	Gando	GC_01	27,9293	-15,3723	10	01/10/2018	63,6	329		si
+Gran Canaria	Martinez.Crego.et.al.2020	Gando	Caballo	27,9321	-15,3702	6	01/07/2014	43,3	413		si
+Gran Canaria	Espino	Güi-Güi	37	27,9376	-15,8329	10	01/07/2003		670,4		si
+Gran Canaria	Espino	Güi-Güi	39	27,9376	-15,8329	20	01/07/2003		732,8		si
+Gran Canaria	Espino	Güi-Güi	38	27,9388	-15,8310	15	01/07/2003		958,4		si
+Gran Canaria	Parque.Nacional	Güi-güi	Güi-güi1	27,9440	-15,8336	15	01/08/2022	59,5	347,2		si
+Gran Canaria	Parque.Nacional	Güi-güi1	Güi-güi1	27,9440	-15,8336	15	07/09/2023	75	385,8		si
+Gran Canaria	Monitoring.Eccos	Güi-güi	Güi-güi	27,9459	-15,8316	16	25/06/2018	59,47	330		si
+Gran Canaria	Seguimiento.ZECs	Güi-Güi	Güigüi	27,9459	-15,8316	17	26/08/2011		566,4		si
+Gran Canaria	Seguimiento.ZECs	Güi-güi	GC_12	27,9461	-15,8316	16	01/06/2015	48,9	352,6		si
+Gran Canaria	Seguimiento.ZECs	Güi-güi	GC_12	27,9461	-15,8316	17	01/09/2018	73,1	279,7		si
+Gran Canaria	Monitoring	Güi-güi	Güi-güi	27,9468	-15,8344	16	25/09/2021	71,2	524		si
+Gran Canaria	RESIGRASS	Güi-güi	Güi-güi	27,9473	-15,8319	15	13/08/2015		497		si
+Gran Canaria	Parque.Nacional	Güi-güi	Güi-güi2	27,9478	-15,8366	16	01/08/2022	65	425,6		si
+Gran Canaria	Parque.Nacional	Güi-güi2	Güi-güi2	27,9478	-15,8366	16	07/09/2023	76	412,5		si
+Gran Canaria	Espino	Salinetas	4	27,9823	-15,3741	15	01/07/2003		137,6		no
+Gran Canaria	Espino	Salinetas	3	27,9828	-15,3755	10	01/07/2003		299,2		no
+Gran Canaria	Espino	Canteras	2	28,1440	-15,4354	5	01/07/2003		1080		si
+Gran Canaria	Espino	Canteras	1	28,1443	-15,4345	5	01/07/2003		1833,6		si
+Tenerife	Seguimiento.ZECs	Antequera	TF_01	28,5319	-16,1315		01/06/2015	36,7	746,2		si
+Tenerife	Seguimiento.ZECs	Antequera	TF_01	28,5319	-16,1315		01/09/2018	18,3	119,4		si
+Tenerife	Seguimiento.ZECs	Antequera	Antequera	28,5316	-16,1323	13	07/06/2011		643,2		si
+Tenerife	Seguimiento.ZECs	Igueste	Las Teresitas	28,5081	-16,1754	13	08/06/2011		643,2		si
+Tenerife	Seguimiento.ZECs	Igueste	San Andrés	28,5063	-16,1803	13	01/06/2015	15,5	841,6		si
+Tenerife	Seguimiento.ZECs	Igueste	San Andrés	28,5063	-16,1803	13	01/09/2018	40,8	654		si
+Tenerife	CIMA	Granadilla	A4	28,0777	-16,4895	15	01/09/2007	48	1097,6		no
+Tenerife	CIMA	Granadilla	A3	28,0756	-16,4917	14	01/09/2007	42	899,2		no
+Tenerife	CIMA	Granadilla	A2	28,0736	-16,4940	19	01/09/2007	18	441,6		no
+Tenerife	CIMA	Granadilla	A8	28,0660	-16,4948	30	01/09/2007	21	160		no
+Tenerife	CIMA	Granadilla	A1	28,0715	-16,4963	21,2	01/09/2007	18	451,2		no
+Tenerife	CIMA	Granadilla	B6	28,0722	-16,4964	18	01/09/2007	78	2246,4		no
+Tenerife	CIMA	Granadilla	B5	28,0721	-16,4971	13	01/09/2007	76	2070,4		no
+Tenerife	CIMA	Granadilla	B4	28,0765	-16,4982	5,3	01/09/2007	38	851,2		no
+Tenerife	CIMA	Granadilla	B3	28,0763	-16,4987	6	01/09/2007	44	1312		no
+Tenerife	Seguimiento.ZECs	Granadilla	Granadilla	28,0581	-16,5098	16	19/05/2011		574,4		no
+Tenerife	CIMA	Granadilla	A14	28,0587	-16,5107	16,5	01/09/2007	34	566,4		no
+Tenerife	Plan.Conservación.C.nodosa	Montaña.Pelada	TF_06	28,0582	-16,5137	9	01/10/2018	24,7	527,8		si
+Tenerife	Plan.Conservación.C.nodosa	Montaña.Pelada	TF_06	28,0582	-16,5137	10	01/06/2015	51,8	814,1		si
+Tenerife	CIMA	Granadilla	B1	28,0616	-16,5140	4,8	01/09/2007	25	428,8		no
+Tenerife	Plan.Conservación.C.nodosa	Medano	TF_07	28,0402	-16,5394	8	01/06/2015	54,77	596,8		si
+Tenerife	Plan.Conservación.C.nodosa	Medano	TF_07	28,0402	-16,5394	8	01/09/2018	44,2	193,7		si
+Tenerife	Seguimiento.ZECs	Tejita	La Tejita	28,0269	-16,5595	18	19/05/2011		848		si
+Tenerife	Plan.Conservación.C.nodosa	Tejita	TF_08	28,0274	-16,5595	11	01/06/2015	47,7	898,8		si
+Tenerife	Plan.Conservación.C.nodosa	Tejita	TF_08	28,0274	-16,5595	11	01/10/2018	25,4	179,8		si
+Tenerife	Plan.Conservación.C.nodosa	Abrigos	TF_09	28,0264	-16,5905	12	01/06/2015	26,5	806,1		si
+Tenerife	Plan.Conservación.C.nodosa	Abrigos	TF_09	28,0264	-16,5905	12	01/09/2018	59,9	38,3		si
+Tenerife	Plan.Conservación.C.nodosa	Los.Cristianos	TF_10	28,0474	-16,7238	13	01/06/2015	72,8	532,9		si
+Tenerife	Plan.Conservación.C.nodosa	Los.Cristianos	TF_10	28,0474	-16,7238	13	01/09/2018	0	0		si
+Tenerife	Plan.Conservación.C.nodosa	La.Caleta	TF_12	28,0944	-16,7594	15	01/06/2015	0	432		si
+Tenerife	Plan.Conservación.C.nodosa	La.Caleta	TF_12	28,0944	-16,7594	15	01/10/2018	35,8	116,5		si
+Tenerife	Seguimiento.ZECs	Armeñime	Armeñime	28,1123	-16,7707	12	21/05/2011		520,89		si
+La Gomera	Plan.Conservación.C.nodosa	Playa de Santiago	Aeropuerto	28,0251	-17,2118	12	01/06/2015	21,5	320		si
+La Gomera	Plan.Conservación.C.nodosa	Playa de Santiago	Aeropuerto	28,0251	-17,2118	12	01/09/2018	0	0		si
+La Gomera	Plan.Conservación.C.nodosa	Negra	LG_1	28,0330	-17,2753	13	01/06/2015	38,5	227,3		si
+La Gomera	Plan.Conservación.C.nodosa	Negra	LG_1	28,0330	-17,2753	13	01/09/2018	0	0		si
