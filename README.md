@@ -1,0 +1,1 @@
+Código en R para el análisis de tendencias históricas en la estructura de sebadales (praderas marinas), de acuerdo a la cobertura y densidad de praderas, tanto para aquellas dentro de ZECs como para praderas fuera de ZECs
